@@ -1,1144 +1,1144 @@
-,HomeNumWins,VisitorNumWins,HomeStreak,VisitorStreak,HomeWins2019,VisitorWins2019
-0,0,0,0,0,32,14
-1,0,0,0,0,26,15
-2,0,0,0,0,25,13
-3,0,0,0,0,29,15
-4,0,0,0,0,25,6
-5,0,0,0,0,23,11
-6,0,0,0,0,19,12
-7,0,0,0,0,31,21
-8,0,0,0,0,24,10
-9,0,0,0,0,32,8
-10,0,0,0,0,29,22
-11,0,0,0,0,32,20
-12,0,0,0,0,12,15
-13,0,0,0,0,26,12
-14,0,0,0,0,31,27
-15,0,0,0,0,30,22
-16,0,0,0,0,28,26
-17,1,1,1,1,25,11
-18,0,0,0,0,23,8
-19,0,0,0,0,21,13
-20,0,0,0,0,19,9
-21,0,0,0,0,27,10
-22,0,0,0,0,34,7
-23,0,0,0,0,24,21
-24,0,0,0,0,22,21
-25,0,0,0,0,33,20
-26,0,0,0,0,26,20
-27,0,0,0,0,17,17
-28,0,0,0,0,9,21
-29,0,0,0,0,9,26
-30,0,0,0,0,13,19
-31,0,0,0,0,31,14
-32,1,1,1,1,32,10
-33,1,0,1,0,29,15
-34,1,1,1,1,12,22
-35,0,0,0,0,27,27
-36,0,0,0,0,21,19
-37,1,1,1,1,24,21
-38,0,1,0,1,25,20
-39,1,0,1,0,22,14
-40,0,0,0,0,26,19
-41,0,1,0,1,9,13
-42,1,1,1,1,17,20
-43,1,0,1,0,32,17
-44,0,0,0,0,33,6
-45,0,0,0,0,19,27
-46,1,0,1,0,31,22
-47,2,2,2,2,32,21
-48,2,0,2,0,12,21
-49,0,1,0,1,24,20
-50,1,0,1,0,26,14
-51,1,1,1,1,19,12
-52,1,1,1,1,34,9
-53,2,0,2,0,22,12
-54,1,2,1,2,31,11
-55,1,0,1,0,25,8
-56,1,1,1,0,13,13
-57,1,0,1,0,23,19
-58,1,1,1,1,28,27
-59,2,1,2,1,32,15
-60,1,2,1,0,27,21
-61,0,0,0,0,22,22
-62,0,0,0,0,24,14
-63,2,1,2,0,29,22
-64,0,0,0,0,30,7
-65,1,1,0,0,17,20
-66,0,2,0,2,19,20
-67,2,0,2,0,26,16
-68,3,2,3,1,22,20
-69,2,0,2,0,19,15
-70,3,0,3,0,19,15
-71,4,2,4,0,22,20
-72,3,1,0,1,19,15
-73,1,1,0,1,23,22
-74,0,0,0,0,29,6
-75,2,1,2,0,25,27
-76,2,0,2,0,28,8
-77,0,1,0,0,9,15
-78,1,2,0,2,24,15
-79,0,1,0,1,24,21
-80,0,0,0,0,30,16
-81,1,0,0,0,27,14
-82,1,0,1,0,26,19
-83,2,2,0,0,25,20
-84,1,1,1,1,21,7
-85,1,1,1,1,33,26
-86,0,2,0,0,22,11
-87,0,1,0,1,30,14
-88,0,2,0,2,32,20
-89,1,1,1,0,29,13
-90,3,1,0,0,19,22
-91,1,0,1,0,9,15
-92,3,3,3,3,32,15
-93,2,2,2,2,13,9
-94,3,1,3,0,26,21
-95,0,1,0,0,22,15
-96,2,0,1,0,23,14
-97,1,1,0,0,21,22
-98,1,2,1,1,25,27
-99,2,3,0,3,12,20
-100,0,3,0,1,30,21
-101,1,1,0,1,25,19
-102,2,1,0,1,13,21
-103,1,1,0,1,17,16
-104,1,4,1,4,9,15
-105,2,0,1,0,27,17
-106,1,3,0,1,34,20
-107,2,0,2,0,26,8
-108,2,1,2,0,29,10
-109,2,1,1,0,17,13
-110,2,1,2,1,31,27
-111,3,1,3,1,32,15
-112,1,3,0,1,21,11
-113,1,0,0,0,24,17
-114,3,3,3,0,29,20
-115,4,3,4,2,26,27
-116,2,2,1,2,25,21
-117,3,0,0,0,32,22
-118,3,3,1,0,12,20
-119,4,3,0,0,26,21
-120,3,1,3,0,29,15
-121,2,0,0,0,25,12
-122,1,0,1,0,22,6
-123,2,1,0,0,17,15
-124,1,1,0,0,25,27
-125,1,1,1,0,19,26
-126,2,0,1,0,24,8
-127,2,3,1,0,34,20
-128,4,4,4,3,29,27
-129,0,0,0,0,32,19
-130,4,4,0,1,22,20
-131,4,3,1,3,32,21
-132,2,0,0,0,25,14
-133,1,2,0,1,9,22
-134,2,3,1,3,21,9
-135,3,1,2,0,27,27
-136,2,3,1,1,25,20
-137,3,1,1,0,25,19
-138,2,2,2,2,31,14
-139,4,4,3,0,27,27
-140,1,1,0,1,9,6
-141,3,1,0,1,12,19
-142,0,1,0,0,32,12
-143,5,2,1,1,22,26
-144,3,3,3,0,26,11
-145,3,4,3,4,28,9
-146,4,0,0,0,32,12
-147,1,3,0,2,19,22
-148,1,1,1,0,30,21
-149,5,3,1,2,26,26
-150,4,0,4,0,29,22
-151,3,2,3,2,31,6
-152,4,1,1,0,19,15
-153,1,1,0,1,9,8
-154,3,1,2,0,34,12
-155,4,5,1,5,12,15
-156,5,1,5,0,29,19
-157,1,3,1,0,24,21
-158,2,1,0,1,25,12
-159,3,3,0,0,25,20
-160,4,1,4,0,28,10
-161,3,1,3,0,31,22
-162,2,1,0,0,25,16
-163,5,1,0,0,22,27
-164,1,3,1,0,32,26
-165,2,4,0,0,13,20
-166,2,2,2,1,33,13
-167,1,1,0,0,19,22
-168,1,4,0,0,9,9
-169,4,2,0,1,12,12
-170,3,1,0,0,34,19
-171,2,1,0,0,25,15
-172,4,1,1,0,25,16
-173,4,2,4,1,31,19
-174,2,2,0,1,21,21
-175,3,1,1,0,25,10
-176,4,3,0,0,27,20
-177,1,4,0,4,30,21
-178,6,2,1,1,22,15
-179,2,1,1,0,9,19
-180,5,5,5,1,29,27
-181,2,2,1,0,9,14
-182,5,1,2,1,19,14
-183,3,4,0,3,25,22
-184,2,4,0,1,24,26
-185,4,3,0,0,32,21
-186,6,2,2,0,26,12
-187,2,3,0,0,13,20
-188,2,5,2,5,24,21
-189,3,4,1,2,21,20
-190,5,2,2,1,25,10
-191,2,1,1,0,19,27
-192,7,2,2,0,22,12
-193,2,2,0,0,9,6
-194,3,2,2,0,23,19
-195,4,3,4,1,32,14
-196,2,6,0,2,9,27
-197,5,4,5,1,31,21
-198,3,1,1,0,24,16
-199,5,5,1,0,12,21
-200,6,4,6,1,29,11
-201,7,0,3,0,26,22
-202,3,1,0,0,21,27
-203,3,4,2,0,19,21
-204,3,2,3,2,24,7
-205,8,0,3,0,22,22
-206,4,1,4,0,31,8
-207,1,1,0,0,22,16
-208,2,7,0,3,17,27
-209,3,3,0,0,23,14
-210,4,2,2,1,24,27
-211,6,2,3,0,19,6
-212,5,0,5,0,32,17
-213,2,1,0,0,9,15
-214,3,2,0,0,25,21
-215,4,5,1,4,34,22
-216,8,6,4,1,26,21
-217,3,4,3,0,33,21
-218,5,1,0,0,12,14
-219,3,2,0,0,26,12
-220,2,3,1,0,22,14
-221,4,2,1,0,23,15
-222,3,5,1,1,9,20
-223,5,6,1,6,27,15
-224,5,1,5,0,31,16
-225,5,2,3,0,24,6
-226,5,6,2,0,34,21
-227,6,2,0,0,29,27
-228,9,5,5,0,26,22
-229,3,2,0,0,25,7
-230,3,2,1,0,25,13
-231,5,0,0,0,29,17
-232,2,4,0,0,17,26
-233,3,1,1,0,9,16
-234,6,6,6,2,31,20
-235,2,4,0,0,13,21
-236,3,7,0,7,21,15
-237,4,1,4,0,33,15
-238,7,2,1,1,29,14
-239,6,4,6,0,31,9
-240,3,2,0,1,9,19
-241,3,2,2,0,22,15
-242,6,3,3,1,34,7
-243,10,2,6,0,26,14
-244,3,3,1,2,13,19
-245,4,0,1,0,26,17
-246,6,2,1,2,29,12
-247,2,5,0,2,17,11
-248,5,3,5,1,28,15
-249,7,3,4,0,19,14
-250,6,4,6,1,32,20
-251,3,4,0,0,9,21
-252,5,3,5,1,33,21
-253,4,8,0,8,32,15
-254,1,0,0,0,30,22
-255,6,1,4,0,24,22
-256,7,2,4,0,34,10
-257,6,4,6,3,28,19
-258,3,1,0,0,25,15
-259,3,0,0,0,13,17
-260,7,3,2,0,29,21
-261,7,3,7,0,31,15
-262,7,1,7,0,32,8
-263,6,6,0,0,31,20
-264,3,2,0,1,21,22
-265,6,2,6,0,33,12
-266,4,6,0,3,32,11
-267,5,2,0,0,12,10
-268,4,9,3,9,19,15
-269,1,1,0,1,32,22
-270,1,3,0,1,30,13
-271,5,6,2,0,23,21
-272,5,3,2,0,26,14
-273,6,5,3,1,25,26
-274,3,8,0,4,13,27
-275,3,4,0,0,9,20
-276,8,2,3,0,29,12
-277,3,3,0,0,21,21
-278,8,2,5,0,19,27
-279,5,2,0,0,27,14
-280,4,3,0,2,32,22
-281,5,5,0,1,12,9
-282,2,3,1,0,32,13
-283,9,3,4,1,22,10
-284,4,5,4,3,24,20
-285,8,3,8,1,31,19
-286,7,2,1,0,31,12
-287,7,4,7,1,33,14
-288,6,6,3,0,23,20
-289,3,2,0,0,25,12
-290,3,6,0,0,9,21
-291,10,6,5,2,22,9
-292,5,2,0,1,26,16
-293,4,1,0,0,19,22
-294,6,2,0,0,25,27
-295,8,4,8,1,32,21
-296,11,3,7,0,26,10
-297,4,3,1,0,25,7
-298,9,4,9,0,31,21
-299,2,2,0,0,17,27
-300,3,3,0,0,21,19
-301,8,1,8,0,33,8
-302,5,3,5,0,24,13
-303,3,1,0,0,13,15
-304,3,1,0,1,22,17
-305,4,7,0,3,19,9
-306,9,7,9,1,32,20
-307,5,5,1,0,32,22
-308,8,10,5,10,34,15
-309,12,5,8,1,26,21
-310,4,2,0,0,25,27
-311,6,9,1,5,26,27
-312,7,4,1,1,25,7
-313,3,4,1,0,17,19
-314,7,8,7,2,28,20
-315,3,3,0,1,9,12
-316,6,4,1,1,27,19
-317,6,7,0,4,24,11
-318,8,11,2,11,29,15
-319,3,3,2,0,32,15
-320,3,5,0,1,22,20
-321,3,5,0,0,9,20
-322,9,5,0,0,32,22
-323,4,4,0,0,19,7
-324,5,5,1,1,25,19
-325,3,2,0,2,13,17
-326,6,5,0,2,26,19
-327,8,6,8,1,28,20
-328,4,2,1,0,9,27
-329,9,3,6,0,19,10
-330,6,7,0,0,27,11
-331,9,3,9,0,33,22
-332,6,3,2,0,32,15
-333,4,12,3,12,32,15
-334,7,2,1,0,24,14
-335,3,5,0,0,9,19
-336,10,2,10,0,31,6
-337,8,5,2,1,31,7
-338,8,3,0,0,29,12
-339,6,6,0,0,23,20
-340,5,2,0,0,25,12
-341,10,4,7,1,19,13
-342,11,6,11,2,31,26
-343,4,3,1,0,22,22
-344,8,3,2,0,24,15
-345,4,2,0,1,32,22
-346,10,7,0,0,22,11
-347,9,4,4,1,29,22
-348,9,2,9,0,28,6
-349,4,6,0,0,9,26
-350,9,4,3,1,31,15
-351,10,3,10,3,33,17
-352,4,2,0,1,19,15
-353,5,7,0,0,12,11
-354,9,3,1,2,29,22
-355,2,3,1,0,30,12
-356,5,3,0,0,25,10
-357,11,3,8,1,19,12
-358,12,6,12,0,31,20
-359,4,1,0,0,32,8
-360,3,6,0,1,13,22
-361,9,7,0,1,29,21
-362,8,13,2,13,25,15
-363,9,5,0,2,32,22
-364,7,4,1,0,23,14
-365,4,3,0,0,9,12
-366,3,4,0,0,25,21
-367,6,4,1,1,12,12
-368,11,2,11,0,33,14
-369,5,4,0,3,24,22
-370,2,1,0,0,30,8
-371,10,5,10,0,28,20
-372,7,2,3,0,32,6
-373,7,8,1,4,26,9
-374,8,5,0,0,34,21
-375,12,14,9,14,19,15
-376,8,7,0,2,25,22
-377,13,2,13,0,31,14
-378,3,6,0,1,17,19
-379,5,5,1,1,9,14
-380,3,10,0,6,21,27
-381,9,3,0,1,29,27
-382,3,6,0,3,25,22
-383,6,2,1,1,24,8
-384,6,2,0,0,12,16
-385,9,6,0,2,32,19
-386,5,7,0,4,9,22
-387,3,3,0,0,21,10
-388,8,8,0,0,24,20
-389,12,3,12,1,33,6
-390,9,4,1,0,34,22
-391,9,3,0,2,31,15
-392,4,3,0,0,19,17
-393,10,6,1,2,29,14
-394,3,15,0,15,17,15
-395,7,6,0,1,23,20
-396,10,3,2,2,34,8
-397,2,5,0,2,30,15
-398,7,3,0,0,26,10
-399,10,3,1,0,32,6
-400,9,3,0,1,31,16
-401,4,9,1,1,21,20
-402,13,9,13,5,33,9
-403,7,4,1,0,27,13
-404,6,5,0,0,12,21
-405,6,6,1,3,25,15
-406,11,16,2,16,29,15
-407,3,3,0,0,9,12
-408,4,6,0,0,19,19
-409,10,4,1,1,29,17
-410,13,5,9,0,26,7
-411,3,6,0,0,13,14
-412,7,7,0,1,26,26
-413,14,9,14,0,31,20
-414,4,4,0,0,22,13
-415,3,2,0,0,25,14
-416,8,5,2,2,27,12
-417,11,4,3,0,34,17
-418,8,7,0,0,24,21
-419,5,3,1,0,32,27
-420,3,5,0,1,17,21
-421,13,16,0,0,33,15
-422,7,7,0,1,32,19
-423,14,8,10,3,26,22
-424,4,5,1,0,13,12
-425,12,6,3,0,29,15
-426,10,4,0,3,28,15
-427,11,4,2,1,32,10
-428,12,3,0,0,19,8
-429,9,5,3,0,27,7
-430,14,10,0,6,31,9
-431,12,7,4,0,34,11
-432,6,4,2,0,32,17
-433,2,3,0,1,30,14
-434,7,6,2,2,25,21
-435,8,3,1,0,23,12
-436,7,5,0,1,26,13
-437,14,4,0,0,31,10
-438,4,11,1,7,9,27
-439,5,6,2,0,21,15
-440,8,7,1,0,32,22
-441,6,9,0,4,12,22
-442,7,7,3,0,32,11
-443,12,11,3,7,32,9
-444,11,6,1,0,28,14
-445,14,7,1,2,33,19
-446,10,8,4,1,27,22
-447,11,6,1,0,22,20
-448,5,3,2,0,13,12
-449,7,6,0,0,26,20
-450,13,8,4,2,29,26
-451,4,4,0,0,9,10
-452,8,6,0,2,25,13
-453,13,7,1,3,19,21
-454,6,3,3,0,21,16
-455,6,7,0,1,12,20
-456,8,3,4,0,32,14
-457,6,10,0,5,24,22
-458,3,7,1,0,30,11
-459,13,8,4,1,32,21
-460,15,12,1,8,31,27
-461,4,11,2,6,30,22
-462,11,8,0,0,22,22
-463,13,4,5,1,34,14
-464,7,5,0,1,26,10
-465,9,3,2,0,23,8
-466,8,4,0,1,24,16
-467,11,5,5,0,27,12
-468,6,7,0,0,24,11
-469,11,6,2,1,29,21
-470,12,3,2,0,28,6
-471,7,4,0,0,25,22
-472,9,7,1,1,25,20
-473,3,12,0,0,17,27
-474,14,7,2,0,19,19
-475,5,5,3,0,30,7
-476,13,6,0,1,34,12
-477,13,8,3,0,28,26
-478,4,7,0,0,19,19
-479,6,3,1,0,9,12
-480,10,7,1,0,31,19
-481,15,7,3,0,19,20
-482,3,3,0,0,25,6
-483,4,4,0,1,22,8
-484,6,11,4,0,30,9
-485,15,4,2,0,33,17
-486,8,4,0,0,32,15
-487,6,5,0,0,24,7
-488,8,16,0,0,32,15
-489,14,7,0,0,26,21
-490,13,5,0,1,32,22
-491,14,6,1,0,34,15
-492,6,6,0,0,21,14
-493,5,11,1,0,19,22
-494,11,12,0,1,22,9
-495,10,3,2,0,25,12
-496,4,10,0,1,22,20
-497,7,13,2,1,9,27
-498,3,7,0,0,25,19
-499,12,4,3,0,29,15
-500,8,6,0,1,32,7
-501,7,9,0,2,25,21
-502,14,7,5,0,29,20
-503,6,9,0,1,24,22
-504,11,8,2,2,31,20
-505,9,3,1,0,32,27
-506,13,4,0,1,32,6
-507,11,12,0,0,27,9
-508,5,4,1,0,22,17
-509,4,6,0,0,9,21
-510,16,8,3,1,33,11
-511,12,7,1,2,22,7
-512,6,6,3,0,13,14
-513,15,8,6,0,29,20
-514,16,9,4,1,19,26
-515,7,8,0,1,9,21
-516,4,3,1,0,25,27
-517,9,7,1,0,24,19
-518,10,6,2,2,32,22
-519,6,6,0,0,24,12
-520,14,4,0,0,26,15
-521,13,4,0,1,28,12
-522,10,10,0,0,25,20
-523,5,6,0,0,22,21
-524,12,7,3,0,31,20
-525,6,5,0,2,12,8
-526,13,5,2,2,22,14
-527,15,6,1,0,26,12
-528,9,9,0,0,23,26
-529,11,9,1,2,25,21
-530,3,7,0,0,17,19
-531,6,7,0,3,13,22
-532,7,10,0,3,9,21
-533,5,9,0,1,22,20
-534,10,7,2,1,24,14
-535,6,4,0,0,30,15
-536,17,4,4,0,33,16
-537,7,5,1,0,24,14
-538,15,5,0,0,26,8
-539,17,7,5,1,19,21
-540,6,8,0,0,13,11
-541,7,7,1,1,12,12
-542,14,5,3,1,22,15
-543,7,7,0,0,25,19
-544,11,7,0,0,25,19
-545,16,8,2,4,31,22
-546,6,11,1,4,22,21
-547,4,9,1,0,17,20
-548,6,10,2,3,19,21
-549,10,6,0,0,24,13
-550,10,14,0,2,32,27
-551,7,3,0,0,24,27
-552,6,5,0,0,13,15
-553,14,7,1,0,32,21
-554,9,8,0,0,23,22
-555,7,9,1,1,21,11
-556,7,6,0,0,12,15
-557,15,5,4,0,22,8
-558,14,4,1,0,28,16
-559,7,10,0,1,25,26
-560,15,10,0,0,29,20
-561,12,5,1,0,25,10
-562,4,11,0,0,17,22
-563,11,10,1,1,24,20
-564,6,6,0,0,19,13
-565,13,5,4,0,29,8
-566,6,14,0,0,30,27
-567,8,4,1,0,26,6
-568,17,11,3,0,31,21
-569,5,8,2,1,25,21
-570,12,12,1,1,27,22
-571,7,4,2,0,22,12
-572,5,6,1,1,9,14
-573,9,11,0,1,23,20
-574,7,8,0,1,9,19
-575,8,5,2,1,21,16
-576,7,5,0,1,12,17
-577,14,8,5,2,29,14
-578,11,17,0,1,24,15
-579,8,15,1,1,24,27
-580,16,3,1,0,26,27
-581,13,9,4,0,31,11
-582,14,7,0,2,28,14
-583,8,6,0,0,26,13
-584,13,18,2,2,27,15
-585,11,7,0,0,24,20
-586,15,5,2,1,34,6
-587,8,16,0,2,32,27
-588,5,11,0,0,9,20
-589,8,11,3,4,22,21
-590,10,4,1,0,23,12
-591,9,3,3,0,21,27
-592,14,5,0,0,32,16
-593,15,10,0,2,34,22
-594,8,8,1,0,12,14
-595,8,7,0,0,26,14
-596,15,7,0,0,29,20
-597,15,7,1,1,28,13
-598,6,9,3,1,25,22
-599,8,8,0,0,32,14
-600,8,5,0,0,24,17
-601,16,6,5,2,22,6
-602,4,7,0,0,17,7
-603,11,12,2,5,23,21
-604,10,12,4,0,21,22
-605,18,5,5,0,33,8
-606,6,12,0,0,30,9
-607,17,6,2,0,26,6
-608,16,6,2,1,28,15
-609,18,7,4,0,31,19
-610,18,6,6,1,19,16
-611,7,5,0,0,9,10
-612,6,9,0,2,25,19
-613,13,11,0,2,27,26
-614,16,8,1,0,34,14
-615,14,8,5,0,31,21
-616,8,13,0,1,24,9
-617,17,6,6,1,22,17
-618,6,7,1,0,9,7
-619,19,11,6,0,33,21
-620,7,13,1,6,19,21
-621,6,11,0,2,30,20
-622,18,7,3,2,26,17
-623,16,9,1,0,29,11
-624,19,7,5,0,31,13
-625,14,5,0,0,32,10
-626,11,6,5,0,21,6
-627,13,11,0,0,27,20
-628,11,4,1,0,32,12
-629,12,9,1,1,24,21
-630,8,10,2,0,19,22
-631,11,17,0,3,23,27
-632,16,8,0,1,28,7
-633,5,7,1,2,17,15
-634,6,7,0,0,9,20
-635,8,6,1,0,9,6
-636,6,12,0,3,25,26
-637,6,7,0,0,30,17
-638,14,19,0,3,31,15
-639,13,9,0,0,27,21
-640,15,7,6,1,29,15
-641,11,12,0,1,32,20
-642,17,10,2,3,34,19
-643,8,8,0,3,22,15
-644,5,13,0,4,17,26
-645,11,8,0,1,23,20
-646,7,7,0,0,25,17
-647,6,5,0,0,13,8
-648,14,10,0,2,31,22
-649,12,8,6,1,21,14
-650,19,7,7,0,19,15
-651,20,7,7,0,33,13
-652,16,20,0,4,28,15
-653,6,12,0,3,25,20
-654,9,6,2,0,12,16
-655,16,11,7,4,29,19
-656,9,3,1,0,32,27
-657,13,11,2,1,24,22
-658,8,7,0,0,26,15
-659,13,11,2,3,25,22
-660,15,9,1,2,32,20
-661,5,12,0,2,17,22
-662,17,8,1,2,28,12
-663,20,5,8,0,19,10
-664,6,20,0,0,9,15
-665,9,9,2,0,9,11
-666,14,13,0,4,31,20
-667,9,11,0,0,12,19
-668,8,7,0,1,19,16
-669,7,13,1,0,30,21
-670,6,5,0,0,13,10
-671,11,21,0,1,23,15
-672,10,14,2,2,32,9
-673,7,18,0,4,25,27
-674,9,8,1,0,26,12
-675,13,11,0,0,25,21
-676,6,14,0,5,9,26
-677,10,7,3,0,9,15
-678,21,12,9,0,19,22
-679,6,12,0,0,25,22
-680,8,13,0,0,19,20
-681,14,5,1,1,27,12
-682,12,9,1,2,32,7
-683,7,12,0,1,30,19
-684,17,15,8,3,29,9
-685,9,7,0,0,26,19
-686,6,7,0,0,13,13
-687,6,12,0,4,25,22
-688,20,22,6,2,31,15
-689,17,13,0,1,34,22
-690,12,15,0,6,32,26
-691,6,6,1,1,17,10
-692,12,10,0,3,21,7
-693,8,12,0,1,19,21
-694,6,8,0,1,9,19
-695,13,13,0,1,25,22
-696,10,13,0,2,32,19
-697,9,6,0,0,26,6
-698,21,8,0,1,19,17
-699,10,8,0,2,9,16
-700,6,8,0,1,25,15
-701,15,15,2,0,27,9
-702,18,13,9,0,29,22
-703,7,6,0,1,25,8
-704,21,3,7,0,31,27
-705,6,9,0,2,13,14
-706,16,5,2,0,32,12
-707,13,14,1,1,21,20
-708,22,12,1,0,19,21
-709,21,6,8,0,33,10
-710,13,10,0,0,24,7
-711,17,8,2,1,29,13
-712,11,8,0,0,23,15
-713,7,9,1,1,9,12
-714,12,14,0,1,32,21
-715,11,14,1,1,32,22
-716,8,13,0,5,24,22
-717,6,16,0,7,13,26
-718,9,8,1,0,22,14
-719,7,9,2,0,17,20
-720,18,3,2,0,28,27
-721,18,14,1,0,34,21
-722,19,9,4,2,26,15
-723,9,17,0,8,26,26
-724,12,8,1,0,23,13
-725,15,16,1,1,31,9
-726,9,10,1,2,19,12
-727,22,14,9,0,33,20
-728,9,14,0,6,12,22
-729,17,9,0,0,22,21
-730,19,9,0,0,26,11
-731,18,6,3,0,29,8
-732,13,12,0,0,25,20
-733,6,3,0,0,13,27
-734,10,8,2,0,22,19
-735,19,9,3,0,28,20
-736,13,5,0,0,24,12
-737,13,8,1,0,32,14
-738,8,22,0,0,24,15
-739,12,14,2,0,32,21
-740,9,15,0,1,26,20
-741,16,10,2,3,31,14
-742,22,11,0,1,33,7
-743,17,8,3,0,32,13
-744,8,8,1,0,25,17
-745,6,7,0,1,13,8
-746,18,16,0,0,29,9
-747,11,4,3,1,22,27
-748,8,13,3,1,17,21
-749,13,11,2,0,23,7
-750,22,9,0,0,19,20
-751,14,8,2,0,21,15
-752,8,9,0,0,24,11
-753,20,8,1,0,26,16
-754,10,19,2,5,19,27
-755,17,8,3,0,31,14
-756,19,10,2,1,34,21
-757,17,8,0,0,22,16
-758,10,11,1,0,26,7
-759,20,9,4,1,28,17
-760,14,5,3,2,23,27
-761,18,13,4,0,32,19
-762,6,5,0,0,25,12
-763,15,7,0,1,27,6
-764,14,10,1,0,24,12
-765,18,15,0,0,29,20
-766,21,13,2,1,26,20
-767,7,9,0,0,9,17
-768,11,10,1,0,9,14
-769,23,9,1,0,33,20
-770,13,8,3,0,32,16
-771,18,14,1,0,22,22
-772,22,11,8,1,31,12
-773,11,17,0,1,22,9
-774,21,6,5,1,28,12
-775,18,18,0,9,29,26
-776,16,8,1,0,27,15
-777,9,15,0,1,12,22
-778,9,13,1,0,24,20
-779,18,10,0,0,29,21
-780,13,20,0,6,25,27
-781,8,17,0,0,25,9
-782,11,8,2,2,26,8
-783,18,11,0,1,29,14
-784,19,8,5,0,32,19
-785,6,14,0,2,25,22
-786,7,23,0,1,30,15
-787,10,16,1,1,12,20
-788,10,8,2,0,24,16
-789,17,14,2,2,27,21
-790,8,9,0,3,17,8
-791,23,8,9,0,31,13
-792,12,11,1,0,22,12
-793,18,14,4,0,31,21
-794,6,14,0,0,13,22
-795,14,13,4,0,32,20
-796,11,8,0,0,26,14
-797,18,8,0,0,29,19
-798,13,6,0,0,25,12
-799,20,9,6,0,32,11
-800,24,10,2,3,33,15
-801,14,15,0,1,24,21
-802,20,8,3,0,34,16
-803,7,13,0,0,30,20
-804,18,11,0,0,22,7
-805,24,15,10,1,31,22
-806,12,8,0,0,22,13
-807,10,10,0,0,19,21
-808,17,8,0,0,27,16
-809,18,15,0,3,31,21
-810,6,6,0,0,13,12
-811,14,8,1,0,25,15
-812,15,19,4,10,23,26
-813,18,21,0,7,29,27
-814,8,6,1,0,9,10
-815,15,10,3,0,21,21
-816,7,9,1,1,25,14
-817,14,10,0,0,24,15
-818,10,5,0,0,12,27
-819,19,14,1,1,29,20
-820,21,24,4,2,34,15
-821,22,15,6,0,28,22
-822,11,15,1,7,19,22
-823,11,21,0,0,26,27
-824,9,14,1,0,17,20
-825,11,10,0,2,9,14
-826,25,9,11,1,31,19
-827,11,12,3,1,24,12
-828,7,15,0,0,30,22
-829,15,18,2,1,25,9
-830,13,7,1,0,22,6
-831,8,13,0,0,9,19
-832,21,11,7,0,32,7
-833,7,15,0,0,25,21
-834,17,17,0,2,27,20
-835,20,9,2,1,29,16
-836,19,12,1,0,22,12
-837,15,12,5,2,32,14
-838,22,10,3,0,26,15
-839,8,9,0,0,25,19
-840,10,19,2,2,17,9
-841,11,11,0,0,9,7
-842,23,8,1,1,19,6
-843,25,9,3,0,33,20
-844,20,16,0,1,29,22
-845,20,16,2,1,22,21
-846,21,9,0,0,34,11
-847,22,14,8,1,32,19
-848,11,7,0,1,9,10
-849,18,10,1,2,27,16
-850,7,13,0,3,30,14
-851,15,8,0,0,32,15
-852,7,14,1,0,13,20
-853,26,6,12,0,31,12
-854,13,22,0,1,22,27
-855,16,9,5,0,23,17
-856,19,9,1,0,31,8
-857,15,9,1,0,24,11
-858,20,12,0,1,29,7
-859,22,12,0,0,26,12
-860,19,11,1,3,29,14
-861,23,23,9,2,32,27
-862,12,16,1,8,9,22
-863,22,8,1,0,34,15
-864,21,14,3,4,22,14
-865,16,16,1,0,32,21
-866,7,11,0,1,30,15
-867,8,9,0,0,25,8
-868,8,9,2,0,13,20
-869,13,10,0,1,22,19
-870,11,10,3,1,17,17
-871,24,9,2,0,19,11
-872,20,12,2,0,31,12
-873,14,19,2,0,32,9
-874,11,15,1,0,12,22
-875,20,17,0,1,29,21
-876,27,9,13,0,31,8
-877,20,10,2,0,29,21
-878,19,12,2,2,27,15
-879,7,25,0,3,30,15
-880,15,10,0,1,25,11
-881,11,10,0,0,17,19
-882,23,11,0,0,32,14
-883,16,12,4,0,21,15
-884,24,20,0,1,19,9
-885,26,17,4,9,33,22
-886,11,8,0,0,19,6
-887,11,8,0,0,12,15
-888,20,7,0,0,29,10
-889,23,17,1,0,26,20
-890,8,8,0,0,9,13
-891,12,10,1,0,17,21
-892,25,10,1,0,19,19
-893,9,14,3,0,13,19
-894,16,26,0,4,21,15
-895,23,17,7,2,28,22
-896,14,11,0,2,32,17
-897,11,5,0,0,12,27
-898,9,24,1,3,25,27
-899,24,9,2,0,26,20
-900,7,20,0,0,25,9
-901,23,19,2,0,34,26
-902,12,9,4,1,24,15
-903,12,26,1,0,19,15
-904,7,7,0,0,30,10
-905,9,16,0,2,13,21
-906,9,18,1,3,9,22
-907,16,10,1,0,25,21
-908,13,12,2,0,17,12
-909,26,25,2,4,19,27
-910,12,21,0,1,9,9
-911,15,15,1,1,32,19
-912,9,10,0,0,25,16
-913,23,10,0,0,28,19
-914,12,10,0,0,19,11
-915,20,16,3,1,27,22
-916,24,6,3,1,34,27
-917,11,19,0,0,12,26
-918,22,9,4,0,22,20
-919,13,8,5,1,24,10
-920,9,18,0,2,13,21
-921,11,17,0,0,26,22
-922,27,16,5,2,33,19
-923,16,13,0,1,23,12
-924,10,17,2,3,9,21
-925,27,11,3,0,19,17
-926,7,8,0,0,25,13
-927,16,14,2,0,24,14
-928,16,8,0,0,32,10
-929,9,17,0,0,25,20
-930,21,17,3,2,31,22
-931,14,9,6,0,24,20
-932,7,20,0,1,30,26
-933,14,6,1,0,22,12
-934,16,11,0,1,23,16
-935,10,18,0,1,9,22
-936,13,16,1,0,9,19
-937,8,11,1,0,25,17
-938,12,14,0,0,19,20
-939,23,18,0,4,28,21
-940,17,14,3,2,24,12
-941,11,11,0,1,12,21
-942,23,25,5,0,22,27
-943,9,18,0,0,25,22
-944,11,19,0,5,26,21
-945,9,18,0,1,13,20
-946,17,6,1,0,21,12
-947,7,10,0,1,30,20
-948,17,13,1,1,32,15
-949,17,8,1,0,23,13
-950,8,14,0,0,25,14
-951,25,27,3,1,26,15
-952,23,19,0,2,28,22
-953,12,25,1,0,12,27
-954,15,14,2,0,22,20
-955,18,17,4,1,24,19
-956,21,12,0,1,31,17
-957,10,9,0,0,9,15
-958,10,11,1,0,13,16
-959,14,21,0,2,24,26
-960,13,12,0,1,17,14
-961,24,25,0,0,34,27
-962,21,22,1,3,29,26
-963,15,9,0,0,22,8
-964,21,19,3,3,29,21
-965,21,11,0,1,31,11
-966,15,21,0,0,32,9
-967,18,13,2,2,21,17
-968,13,8,0,0,9,6
-969,17,13,0,2,32,7
-970,24,11,6,1,22,19
-971,8,18,1,3,30,22
-972,28,9,14,0,31,15
-973,14,9,1,0,17,8
-974,28,12,4,0,19,14
-975,18,18,0,0,24,20
-976,13,20,1,6,19,21
-977,24,19,0,4,22,22
-978,18,14,2,3,23,17
-979,18,14,1,0,32,12
-980,16,13,1,0,22,7
-981,28,20,6,4,33,21
-982,16,14,1,2,32,15
-983,19,18,1,0,24,22
-984,25,15,1,1,34,20
-985,20,21,0,7,27,21
-986,25,15,0,1,26,14
-987,21,10,0,0,29,20
-988,23,28,0,2,32,15
-989,18,8,0,0,23,10
-990,23,11,0,0,28,21
-991,18,11,0,0,21,16
-992,16,14,0,0,25,15
-993,22,25,1,0,31,27
-994,13,21,2,0,12,9
-995,28,23,0,4,19,26
-996,16,18,0,2,22,19
-997,21,18,1,0,27,20
-998,13,14,0,0,19,12
-999,29,12,15,1,31,16
-1000,21,28,0,0,29,15
-1001,29,12,7,2,33,19
-1002,14,21,0,0,24,9
-1003,26,14,1,1,26,7
-1004,22,15,1,4,29,17
-1005,28,20,0,0,19,21
-1006,19,19,2,1,32,22
-1007,21,14,0,0,29,12
-1008,16,10,0,0,22,20
-1009,17,19,2,1,32,20
-1010,25,20,1,3,22,22
-1011,17,24,1,5,25,26
-1012,24,13,1,3,28,19
-1013,14,15,0,0,24,14
-1014,29,16,0,2,33,20
-1015,14,19,3,3,12,19
-1016,19,19,0,0,24,22
-1017,25,11,0,0,34,21
-1018,23,29,2,1,31,15
-1019,17,21,0,0,32,21
-1020,18,21,0,4,21,22
-1021,19,14,1,0,23,15
-1022,30,15,16,0,31,17
-1023,14,8,1,0,19,10
-1024,24,20,1,0,32,21
-1025,20,20,3,1,32,22
-1026,25,21,0,0,34,21
-1027,23,29,2,0,29,15
-1028,29,15,1,2,19,7
-1029,19,25,0,0,24,27
-1030,21,8,0,0,27,10
-1031,24,14,0,0,32,12
-1032,15,12,2,0,19,16
-1033,25,15,2,0,28,17
-1034,20,11,0,1,32,20
-1035,15,19,1,0,24,22
-1036,26,13,0,0,26,19
-1037,15,21,4,0,12,22
-1038,22,22,1,1,29,9
-1039,30,25,1,6,33,26
-1040,29,19,0,0,19,19
-1041,25,20,0,2,22,20
-1042,17,14,0,1,25,19
-1043,18,20,1,1,32,22
-1044,31,16,17,3,31,7
-1045,19,21,1,1,21,21
-1046,20,12,1,1,24,21
-1047,16,25,0,0,22,27
-1048,15,15,0,0,24,14
-1049,24,19,3,0,31,19
-1050,31,26,0,7,31,26
-1051,22,16,1,0,27,20
-1052,26,21,1,2,34,22
-1053,26,8,3,0,28,10
-1054,26,14,1,0,22,15
-1055,16,23,5,2,12,9
-1056,19,26,0,1,21,27
-1057,22,13,0,1,29,16
-1058,17,15,0,0,25,14
-1059,20,13,2,2,23,21
-1060,25,20,1,0,32,20
-1061,24,16,3,0,29,20
-1062,26,21,0,0,26,22
-1063,24,11,0,0,31,20
-1064,21,14,1,0,32,12
-1065,26,21,0,0,34,21
-1066,26,15,2,2,32,19
-1067,26,12,0,1,28,20
-1068,27,23,1,0,26,9
-1069,30,15,0,0,33,17
-1070,25,16,4,0,29,20
-1071,24,21,0,0,31,22
-1072,26,14,0,3,22,21
-1073,27,15,3,0,32,19
-1074,27,21,1,0,34,21
-1075,27,12,1,0,28,20
-1076,28,23,2,0,26,9
-1077,25,17,0,1,29,20
-1078,25,21,1,0,31,22
-1079,30,16,0,1,33,17
-1080,26,15,0,4,22,21
-1081,20,27,0,8,23,26
-1082,23,20,1,0,29,20
-1083,31,22,0,2,31,21
-1084,20,22,0,3,24,22
-1085,18,26,1,0,25,27
-1086,30,20,1,1,19,19
-1087,23,20,2,0,27,22
-1088,22,29,2,0,32,15
-1089,31,23,0,3,31,21
-1090,20,23,0,4,24,22
-1091,20,28,0,9,23,26
-1092,24,20,2,0,29,20
-1093,18,27,0,1,25,27
-1094,24,20,3,0,27,22
-1095,31,20,2,0,19,19
-1096,22,30,0,1,32,15
-1097,27,22,0,1,34,21
-1098,28,24,0,1,26,9
-1099,31,16,1,0,33,17
-1100,26,21,2,0,31,22
-1101,27,15,1,0,22,21
-1102,28,24,4,4,32,21
-1103,21,23,1,0,24,22
-1104,25,20,3,0,29,20
-1105,32,18,2,2,33,20
-1106,25,20,4,0,27,22
-1107,28,25,0,5,32,21
-1108,28,22,1,0,34,21
-1109,32,19,0,3,33,20
-1110,27,21,3,0,31,22
-1111,28,29,2,10,28,26
-1112,29,21,1,1,26,20
-1113,32,28,3,2,19,27
-1114,28,20,2,0,22,22
-1115,28,30,0,11,28,26
-1116,30,21,2,0,26,20
-1117,33,28,4,0,19,27
-1118,28,21,0,1,22,22
-1119,28,26,0,6,32,21
-1120,29,24,2,1,34,22
-1121,32,20,0,4,33,20
-1122,28,31,4,2,31,15
-1123,28,31,0,12,28,26
-1124,29,25,0,2,34,22
-1125,28,32,0,3,31,15
-1126,30,22,0,1,26,20
-1127,28,27,0,7,32,21
-1128,29,21,1,0,22,22
-1129,29,26,0,3,34,22
-1130,28,21,0,5,28,20
-1131,30,23,0,2,26,20
-1132,28,22,0,6,28,20
-1133,30,24,2,3,22,20
-1134,33,28,0,8,19,21
-1135,31,24,3,0,22,20
-1136,30,33,1,4,34,15
-1137,33,29,0,9,19,21
-1138,31,33,2,0,34,15
-1139,28,23,0,7,28,20
-1140,32,24,4,0,22,20
-1141,34,29,1,0,19,21
-1142,33,23,5,0,22,20
+,Visitor,Home,HomeWin,HomeNumWins,VisitorNumWins,HomeStreak,VisitorStreak
+0,New Orleans Pelicans,Toronto Raptors,True,0,0,0,0
+1,Los Angeles Lakers,Los Angeles Clippers,True,0,0,0,0
+2,Chicago Bulls,Charlotte Hornets,True,0,0,0,0
+3,Detroit Pistons,Indiana Pacers,False,0,0,0,0
+4,Cleveland Cavaliers,Orlando Magic,True,0,0,0,0
+5,Minnesota Timberwolves,Brooklyn Nets,False,0,0,0,0
+6,Memphis Grizzlies,Miami Heat,True,0,0,0,0
+7,Boston Celtics,Philadelphia 76ers,True,0,0,0,0
+8,Washington Wizards,Dallas Mavericks,True,0,0,0,0
+9,New York Knicks,San Antonio Spurs,True,0,0,0,0
+10,Oklahoma City Thunder,Utah Jazz,True,0,0,0,0
+11,Denver Nuggets,Portland Trail Blazers,False,0,0,0,0
+12,Sacramento Kings,Phoenix Suns,True,0,0,0,0
+13,Atlanta Hawks,Detroit Pistons,False,0,0,0,0
+14,Milwaukee Bucks,Houston Rockets,False,0,0,0,0
+15,Los Angeles Clippers,Golden State Warriors,False,0,0,0,0
+16,Toronto Raptors,Boston Celtics,True,0,0,0,0
+17,Minnesota Timberwolves,Charlotte Hornets,False,1,1,1,1
+18,New York Knicks,Brooklyn Nets,True,0,0,0,0
+19,Chicago Bulls,Memphis Grizzlies,False,0,0,0,0
+20,Dallas Mavericks,New Orleans Pelicans,False,0,0,0,0
+21,Washington Wizards,Oklahoma City Thunder,False,0,0,0,0
+22,Phoenix Suns,Denver Nuggets,True,0,0,0,0
+23,Portland Trail Blazers,Sacramento Kings,False,0,0,0,0
+24,Utah Jazz,Los Angeles Lakers,True,0,0,0,0
+25,Miami Heat,Milwaukee Bucks,False,0,0,0,0
+26,Philadelphia 76ers,Detroit Pistons,False,0,0,0,0
+27,Orlando Magic,Atlanta Hawks,True,0,0,0,0
+28,Boston Celtics,New York Knicks,False,0,0,0,0
+29,Toronto Raptors,Chicago Bulls,False,0,0,0,0
+30,Indiana Pacers,Cleveland Cavaliers,True,0,0,0,0
+31,New Orleans Pelicans,Houston Rockets,True,0,0,0,0
+32,Washington Wizards,San Antonio Spurs,True,1,1,1,1
+33,Sacramento Kings,Utah Jazz,True,1,0,1,0
+34,Los Angeles Clippers,Phoenix Suns,True,1,1,1,1
+35,Golden State Warriors,Oklahoma City Thunder,True,0,0,0,0
+36,Brooklyn Nets,Memphis Grizzlies,True,0,0,0,0
+37,Portland Trail Blazers,Dallas Mavericks,False,1,1,1,1
+38,Miami Heat,Minnesota Timberwolves,True,0,1,0,1
+39,Charlotte Hornets,Los Angeles Lakers,True,1,0,1,0
+40,Indiana Pacers,Detroit Pistons,True,0,0,0,0
+41,Chicago Bulls,New York Knicks,True,0,1,0,1
+42,Philadelphia 76ers,Atlanta Hawks,False,1,1,1,1
+43,Orlando Magic,Toronto Raptors,True,1,0,1,0
+44,Cleveland Cavaliers,Milwaukee Bucks,True,0,0,0,0
+45,Golden State Warriors,New Orleans Pelicans,False,0,0,0,0
+46,Oklahoma City Thunder,Houston Rockets,True,1,0,1,0
+47,Portland Trail Blazers,San Antonio Spurs,True,2,2,2,2
+48,Utah Jazz,Phoenix Suns,False,2,0,2,0
+49,Denver Nuggets,Sacramento Kings,False,0,1,0,1
+50,Charlotte Hornets,Los Angeles Clippers,True,1,0,1,0
+51,Atlanta Hawks,Miami Heat,True,1,1,1,1
+52,Dallas Mavericks,Denver Nuggets,False,1,1,1,1
+53,Memphis Grizzlies,Los Angeles Lakers,True,2,0,2,0
+54,Minnesota Timberwolves,Philadelphia 76ers,True,1,2,1,2
+55,New York Knicks,Orlando Magic,True,1,0,1,0
+56,Chicago Bulls,Cleveland Cavaliers,True,1,1,1,0
+57,Indiana Pacers,Brooklyn Nets,False,1,0,1,0
+58,Milwaukee Bucks,Boston Celtics,True,1,1,1,1
+59,Detroit Pistons,Toronto Raptors,True,2,1,2,1
+60,Portland Trail Blazers,Oklahoma City Thunder,False,1,2,1,0
+61,Houston Rockets,Washington Wizards,False,0,0,0,0
+62,Charlotte Hornets,Sacramento Kings,False,0,0,0,0
+63,Los Angeles Clippers,Utah Jazz,True,2,1,2,0
+64,Phoenix Suns,Golden State Warriors,False,0,0,0,0
+65,Miami Heat,Atlanta Hawks,False,1,1,0,0
+66,Denver Nuggets,New Orleans Pelicans,True,0,2,0,2
+67,San Antonio Spurs,Los Angeles Clippers,True,2,0,2,0
+68,Miami Heat,Los Angeles Lakers,True,3,2,3,1
+69,Los Angeles Lakers,Miami Heat,True,2,0,2,0
+70,Los Angeles Lakers,Miami Heat,False,3,0,3,0
+71,Miami Heat,Los Angeles Lakers,False,4,2,4,0
+72,Los Angeles Lakers,Miami Heat,False,3,1,0,1
+73,Houston Rockets,Brooklyn Nets,True,1,1,0,1
+74,Cleveland Cavaliers,Indiana Pacers,True,0,0,0,0
+75,Milwaukee Bucks,Orlando Magic,False,2,1,2,0
+76,New York Knicks,Boston Celtics,True,2,0,2,0
+77,Detroit Pistons,Chicago Bulls,True,0,1,0,0
+78,Los Angeles Lakers,Dallas Mavericks,False,1,2,0,2
+79,Utah Jazz,Sacramento Kings,True,0,1,0,1
+80,San Antonio Spurs,Golden State Warriors,False,0,0,0,0
+81,New Orleans Pelicans,Oklahoma City Thunder,True,1,0,0,0
+82,Brooklyn Nets,Detroit Pistons,True,1,0,1,0
+83,Denver Nuggets,Orlando Magic,False,2,2,0,0
+84,Phoenix Suns,Memphis Grizzlies,False,1,1,1,1
+85,Toronto Raptors,Milwaukee Bucks,True,1,1,1,1
+86,Minnesota Timberwolves,Washington Wizards,False,0,2,0,0
+87,Charlotte Hornets,Golden State Warriors,False,0,1,0,1
+88,Philadelphia 76ers,Portland Trail Blazers,False,0,2,0,2
+89,Chicago Bulls,Indiana Pacers,True,1,1,1,0
+90,Houston Rockets,Miami Heat,True,3,1,0,0
+91,Sacramento Kings,New York Knicks,False,1,0,1,0
+92,Los Angeles Lakers,San Antonio Spurs,False,3,3,3,3
+93,Dallas Mavericks,Cleveland Cavaliers,False,2,2,2,2
+94,Utah Jazz,Los Angeles Clippers,True,3,1,3,0
+95,Detroit Pistons,Washington Wizards,True,0,1,0,0
+96,New Orleans Pelicans,Brooklyn Nets,True,2,0,1,0
+97,Houston Rockets,Memphis Grizzlies,False,1,1,0,0
+98,Milwaukee Bucks,Minnesota Timberwolves,False,1,2,1,1
+99,Philadelphia 76ers,Phoenix Suns,True,2,3,0,3
+100,Portland Trail Blazers,Golden State Warriors,True,0,3,0,1
+101,Indiana Pacers,Charlotte Hornets,True,1,1,0,1
+102,Boston Celtics,Cleveland Cavaliers,False,2,1,0,1
+103,San Antonio Spurs,Atlanta Hawks,True,1,1,0,1
+104,Los Angeles Lakers,Chicago Bulls,False,1,4,1,4
+105,Orlando Magic,Oklahoma City Thunder,True,2,0,1,0
+106,Miami Heat,Denver Nuggets,True,1,3,0,1
+107,New York Knicks,Detroit Pistons,True,2,0,2,0
+108,Washington Wizards,Indiana Pacers,True,2,1,2,0
+109,Chicago Bulls,Atlanta Hawks,False,2,1,1,0
+110,Golden State Warriors,Houston Rockets,True,2,1,2,1
+111,Sacramento Kings,Toronto Raptors,True,3,1,3,1
+112,Minnesota Timberwolves,Memphis Grizzlies,True,1,3,0,1
+113,Orlando Magic,Dallas Mavericks,True,1,0,0,0
+114,Philadelphia 76ers,Utah Jazz,True,3,3,3,0
+115,Milwaukee Bucks,Los Angeles Clippers,False,4,3,4,2
+116,Boston Celtics,Charlotte Hornets,False,2,2,1,2
+117,Oklahoma City Thunder,San Antonio Spurs,True,3,0,0,0
+118,Miami Heat,Phoenix Suns,False,3,3,1,0
+119,Portland Trail Blazers,Los Angeles Clippers,True,4,3,0,0
+120,Detroit Pistons,Indiana Pacers,True,3,1,3,0
+121,Memphis Grizzlies,Orlando Magic,True,2,0,0,0
+122,Cleveland Cavaliers,Washington Wizards,False,1,0,1,0
+123,Sacramento Kings,Atlanta Hawks,False,2,1,0,0
+124,Golden State Warriors,Minnesota Timberwolves,True,1,1,0,0
+125,Toronto Raptors,New Orleans Pelicans,False,1,1,1,0
+126,New York Knicks,Dallas Mavericks,False,2,0,1,0
+127,Philadelphia 76ers,Denver Nuggets,True,2,3,1,0
+128,Milwaukee Bucks,Utah Jazz,True,4,4,4,3
+129,Brooklyn Nets,Portland Trail Blazers,False,0,0,0,0
+130,Miami Heat,Los Angeles Lakers,True,4,4,0,1
+131,Boston Celtics,San Antonio Spurs,False,4,3,1,3
+132,New Orleans Pelicans,Charlotte Hornets,False,2,0,0,0
+133,Houston Rockets,Chicago Bulls,False,1,2,0,1
+134,Dallas Mavericks,Memphis Grizzlies,False,2,3,1,3
+135,Golden State Warriors,Oklahoma City Thunder,True,3,1,2,0
+136,Denver Nuggets,Minnesota Timberwolves,False,2,3,1,1
+137,Indiana Pacers,Orlando Magic,False,3,1,1,0
+138,Charlotte Hornets,Philadelphia 76ers,True,2,2,2,2
+139,Milwaukee Bucks,Oklahoma City Thunder,False,4,4,3,0
+140,Cleveland Cavaliers,New York Knicks,False,1,1,0,1
+141,Brooklyn Nets,Phoenix Suns,True,3,1,0,1
+142,Atlanta Hawks,Portland Trail Blazers,True,0,1,0,0
+143,Toronto Raptors,Los Angeles Lakers,False,5,2,1,1
+144,Minnesota Timberwolves,Detroit Pistons,False,3,3,3,0
+145,Dallas Mavericks,Boston Celtics,True,3,4,3,4
+146,Memphis Grizzlies,San Antonio Spurs,False,4,0,0,0
+147,Houston Rockets,New Orleans Pelicans,False,1,3,0,2
+148,Utah Jazz,Golden State Warriors,False,1,1,1,0
+149,Toronto Raptors,Los Angeles Clippers,True,5,3,1,2
+150,Oklahoma City Thunder,Indiana Pacers,True,4,0,4,0
+151,Cleveland Cavaliers,Philadelphia 76ers,True,3,2,3,2
+152,Detroit Pistons,Miami Heat,True,4,1,1,0
+153,New York Knicks,Chicago Bulls,True,1,1,0,1
+154,Atlanta Hawks,Denver Nuggets,False,3,1,2,0
+155,Los Angeles Lakers,Phoenix Suns,False,4,5,1,5
+156,Brooklyn Nets,Utah Jazz,True,5,1,5,0
+157,Portland Trail Blazers,Sacramento Kings,True,1,3,1,0
+158,Memphis Grizzlies,Charlotte Hornets,False,2,1,0,1
+159,Philadelphia 76ers,Orlando Magic,True,3,3,0,0
+160,Washington Wizards,Boston Celtics,True,4,1,4,0
+161,Los Angeles Clippers,Houston Rockets,True,3,1,3,0
+162,San Antonio Spurs,Minnesota Timberwolves,True,2,1,0,0
+163,Golden State Warriors,Los Angeles Lakers,True,5,1,0,0
+164,Toronto Raptors,Portland Trail Blazers,False,1,3,1,0
+165,Miami Heat,Cleveland Cavaliers,False,2,4,0,0
+166,Chicago Bulls,Milwaukee Bucks,True,2,2,2,1
+167,Los Angeles Clippers,New Orleans Pelicans,True,1,1,0,0
+168,Dallas Mavericks,New York Knicks,True,1,4,0,0
+169,Atlanta Hawks,Phoenix Suns,True,4,2,0,1
+170,Brooklyn Nets,Denver Nuggets,True,3,1,0,0
+171,Detroit Pistons,Charlotte Hornets,True,2,1,0,0
+172,San Antonio Spurs,Orlando Magic,True,4,1,1,0
+173,Indiana Pacers,Houston Rockets,True,4,2,4,1
+174,Utah Jazz,Memphis Grizzlies,True,2,2,0,1
+175,Washington Wizards,Minnesota Timberwolves,False,3,1,1,0
+176,Philadelphia 76ers,Oklahoma City Thunder,True,4,3,0,0
+177,Boston Celtics,Golden State Warriors,False,1,4,0,4
+178,Sacramento Kings,Los Angeles Lakers,True,6,2,1,1
+179,Brooklyn Nets,Chicago Bulls,False,2,1,1,0
+180,Milwaukee Bucks,Indiana Pacers,False,5,5,5,1
+181,Charlotte Hornets,New York Knicks,False,2,2,1,0
+182,New Orleans Pelicans,Miami Heat,True,5,1,2,1
+183,Houston Rockets,Minnesota Timberwolves,False,3,4,0,3
+184,Toronto Raptors,Dallas Mavericks,True,2,4,0,1
+185,Portland Trail Blazers,San Antonio Spurs,False,4,3,0,0
+186,Atlanta Hawks,Los Angeles Clippers,True,6,2,2,0
+187,Philadelphia 76ers,Cleveland Cavaliers,False,2,3,0,0
+188,Boston Celtics,Sacramento Kings,True,2,5,2,5
+189,Denver Nuggets,Memphis Grizzlies,False,3,4,1,2
+190,Washington Wizards,Orlando Magic,True,5,2,2,1
+191,Golden State Warriors,New Orleans Pelicans,True,2,1,1,0
+192,Atlanta Hawks,Los Angeles Lakers,True,7,2,2,0
+193,Cleveland Cavaliers,New York Knicks,True,2,2,0,0
+194,Indiana Pacers,Brooklyn Nets,False,3,2,2,0
+195,Charlotte Hornets,Toronto Raptors,True,4,3,4,1
+196,Milwaukee Bucks,Chicago Bulls,False,2,6,0,2
+197,Portland Trail Blazers,Houston Rockets,True,5,4,5,1
+198,San Antonio Spurs,Dallas Mavericks,True,3,1,1,0
+199,Boston Celtics,Phoenix Suns,False,5,5,1,0
+200,Minnesota Timberwolves,Utah Jazz,False,6,4,6,1
+201,Oklahoma City Thunder,Los Angeles Clippers,True,7,0,3,0
+202,Golden State Warriors,Memphis Grizzlies,False,3,1,0,0
+203,Portland Trail Blazers,New Orleans Pelicans,True,3,4,2,0
+204,Phoenix Suns,Sacramento Kings,True,3,2,3,2
+205,Oklahoma City Thunder,Los Angeles Lakers,True,8,0,3,0
+206,New York Knicks,Philadelphia 76ers,True,4,1,4,0
+207,San Antonio Spurs,Washington Wizards,True,1,1,0,0
+208,Milwaukee Bucks,Atlanta Hawks,False,2,7,0,3
+209,Charlotte Hornets,Brooklyn Nets,True,3,3,0,0
+210,Golden State Warriors,Dallas Mavericks,True,4,2,2,1
+211,Cleveland Cavaliers,Miami Heat,True,6,2,3,0
+212,Orlando Magic,Toronto Raptors,True,5,0,5,0
+213,Detroit Pistons,Chicago Bulls,True,2,1,0,0
+214,Utah Jazz,Minnesota Timberwolves,False,3,2,0,0
+215,Houston Rockets,Denver Nuggets,True,4,5,1,4
+216,Boston Celtics,Los Angeles Clippers,True,8,6,4,1
+217,Portland Trail Blazers,Milwaukee Bucks,True,3,4,3,0
+218,New Orleans Pelicans,Phoenix Suns,False,5,1,0,0
+219,Atlanta Hawks,Detroit Pistons,True,3,2,0,0
+220,Charlotte Hornets,Washington Wizards,True,2,3,1,0
+221,Sacramento Kings,Brooklyn Nets,True,4,2,1,0
+222,Miami Heat,Chicago Bulls,False,3,5,1,1
+223,Los Angeles Lakers,Oklahoma City Thunder,False,5,6,1,6
+224,San Antonio Spurs,Philadelphia 76ers,True,5,1,5,0
+225,Cleveland Cavaliers,Dallas Mavericks,True,5,2,3,0
+226,Boston Celtics,Denver Nuggets,True,5,6,2,0
+227,Golden State Warriors,Utah Jazz,True,6,2,0,0
+228,Houston Rockets,Los Angeles Clippers,True,9,5,5,0
+229,Phoenix Suns,Minnesota Timberwolves,False,3,2,0,0
+230,Chicago Bulls,Charlotte Hornets,False,3,2,1,0
+231,Orlando Magic,Indiana Pacers,True,5,0,0,0
+232,Toronto Raptors,Atlanta Hawks,False,2,4,0,0
+233,San Antonio Spurs,New York Knicks,False,3,1,1,0
+234,Miami Heat,Philadelphia 76ers,True,6,6,6,2
+235,Portland Trail Blazers,Cleveland Cavaliers,True,2,4,0,0
+236,Los Angeles Lakers,Memphis Grizzlies,False,3,7,0,7
+237,Detroit Pistons,Milwaukee Bucks,True,4,1,4,0
+238,New Orleans Pelicans,Utah Jazz,True,7,2,1,1
+239,Dallas Mavericks,Houston Rockets,False,6,4,6,0
+240,Brooklyn Nets,New York Knicks,False,3,2,0,1
+241,Sacramento Kings,Washington Wizards,False,3,2,2,0
+242,Phoenix Suns,Denver Nuggets,True,6,3,3,1
+243,New Orleans Pelicans,Los Angeles Clippers,True,10,2,6,0
+244,Brooklyn Nets,Cleveland Cavaliers,False,3,3,1,2
+245,Orlando Magic,Detroit Pistons,True,4,0,1,0
+246,Memphis Grizzlies,Indiana Pacers,True,6,2,1,2
+247,Minnesota Timberwolves,Atlanta Hawks,False,2,5,0,2
+248,Sacramento Kings,Boston Celtics,True,5,3,5,1
+249,Charlotte Hornets,Miami Heat,True,7,3,4,0
+250,Philadelphia 76ers,Toronto Raptors,True,6,4,6,1
+251,Portland Trail Blazers,Chicago Bulls,False,3,4,0,0
+252,Utah Jazz,Milwaukee Bucks,True,5,3,5,1
+253,Los Angeles Lakers,San Antonio Spurs,False,4,8,0,8
+254,Oklahoma City Thunder,Golden State Warriors,False,1,0,0,0
+255,Los Angeles Clippers,Dallas Mavericks,False,6,1,4,0
+256,Washington Wizards,Denver Nuggets,True,7,2,4,0
+257,Brooklyn Nets,Boston Celtics,True,6,4,6,3
+258,Detroit Pistons,Charlotte Hornets,True,3,1,0,0
+259,Orlando Magic,Cleveland Cavaliers,False,3,0,0,0
+260,Utah Jazz,Indiana Pacers,True,7,3,2,0
+261,Sacramento Kings,Philadelphia 76ers,True,7,3,7,0
+262,New York Knicks,Toronto Raptors,True,7,1,7,0
+263,Miami Heat,Houston Rockets,True,6,6,0,0
+264,Los Angeles Clippers,Memphis Grizzlies,False,3,2,0,1
+265,Atlanta Hawks,Milwaukee Bucks,True,6,2,6,0
+266,Minnesota Timberwolves,San Antonio Spurs,False,4,6,0,3
+267,Washington Wizards,Phoenix Suns,False,5,2,0,0
+268,Los Angeles Lakers,New Orleans Pelicans,False,4,9,3,9
+269,Oklahoma City Thunder,Portland Trail Blazers,True,1,1,0,1
+270,Chicago Bulls,Golden State Warriors,True,1,3,0,1
+271,Boston Celtics,Brooklyn Nets,True,5,6,2,0
+272,Charlotte Hornets,Detroit Pistons,False,5,3,2,0
+273,Toronto Raptors,Orlando Magic,False,6,5,3,1
+274,Milwaukee Bucks,Cleveland Cavaliers,False,3,8,0,4
+275,Philadelphia 76ers,New York Knicks,False,3,4,0,0
+276,Atlanta Hawks,Indiana Pacers,True,8,2,3,0
+277,Utah Jazz,Memphis Grizzlies,False,3,3,0,0
+278,Golden State Warriors,Miami Heat,True,8,2,5,0
+279,New Orleans Pelicans,Oklahoma City Thunder,True,5,2,0,0
+280,Los Angeles Clippers,San Antonio Spurs,True,4,3,0,2
+281,Dallas Mavericks,Phoenix Suns,False,5,5,0,1
+282,Chicago Bulls,Portland Trail Blazers,True,2,3,1,0
+283,Washington Wizards,Los Angeles Lakers,True,9,3,4,1
+284,Denver Nuggets,Sacramento Kings,True,4,5,4,3
+285,Indiana Pacers,Philadelphia 76ers,True,8,3,8,1
+286,Atlanta Hawks,Houston Rockets,True,7,2,1,0
+287,Charlotte Hornets,Milwaukee Bucks,True,7,4,7,1
+288,Miami Heat,Brooklyn Nets,False,6,6,3,0
+289,Memphis Grizzlies,Minnesota Timberwolves,False,3,2,0,0
+290,Boston Celtics,New York Knicks,False,3,6,0,0
+291,Dallas Mavericks,Los Angeles Lakers,False,10,6,5,2
+292,San Antonio Spurs,Detroit Pistons,True,5,2,0,1
+293,Oklahoma City Thunder,New Orleans Pelicans,False,4,1,0,0
+294,Golden State Warriors,Orlando Magic,True,6,2,0,0
+295,Utah Jazz,Toronto Raptors,True,8,4,8,1
+296,Washington Wizards,Los Angeles Clippers,True,11,3,7,0
+297,Phoenix Suns,Charlotte Hornets,False,4,3,1,0
+298,Utah Jazz,Philadelphia 76ers,True,9,4,9,0
+299,Golden State Warriors,Atlanta Hawks,True,2,2,0,0
+300,Indiana Pacers,Memphis Grizzlies,False,3,3,0,0
+301,New York Knicks,Milwaukee Bucks,True,8,1,8,0
+302,Chicago Bulls,Sacramento Kings,False,5,3,5,0
+303,Detroit Pistons,Cleveland Cavaliers,False,3,1,0,0
+304,Orlando Magic,Washington Wizards,False,3,1,0,1
+305,Dallas Mavericks,New Orleans Pelicans,False,4,7,0,3
+306,Miami Heat,Toronto Raptors,False,9,7,9,1
+307,Houston Rockets,San Antonio Spurs,True,5,5,1,0
+308,Los Angeles Lakers,Denver Nuggets,False,8,10,5,10
+309,Portland Trail Blazers,Los Angeles Clippers,True,12,5,8,1
+310,Golden State Warriors,Charlotte Hornets,True,4,2,0,0
+311,Milwaukee Bucks,Detroit Pistons,False,6,9,1,5
+312,Phoenix Suns,Orlando Magic,True,7,4,1,1
+313,Brooklyn Nets,Atlanta Hawks,False,3,4,1,0
+314,Miami Heat,Boston Celtics,True,7,8,7,2
+315,Memphis Grizzlies,Chicago Bulls,True,3,3,0,1
+316,Indiana Pacers,Oklahoma City Thunder,False,6,4,1,1
+317,Minnesota Timberwolves,Dallas Mavericks,True,6,7,0,4
+318,Los Angeles Lakers,Utah Jazz,False,8,11,2,11
+319,Sacramento Kings,Portland Trail Blazers,True,3,3,2,0
+320,Philadelphia 76ers,Washington Wizards,True,3,5,0,1
+321,Denver Nuggets,New York Knicks,False,3,5,0,0
+322,Houston Rockets,Toronto Raptors,False,9,5,0,0
+323,Phoenix Suns,New Orleans Pelicans,False,4,4,0,0
+324,Brooklyn Nets,Charlotte Hornets,False,5,5,1,1
+325,Orlando Magic,Cleveland Cavaliers,False,3,2,0,2
+326,Indiana Pacers,Detroit Pistons,True,6,5,0,2
+327,Denver Nuggets,Boston Celtics,True,8,6,8,1
+328,Golden State Warriors,Chicago Bulls,False,4,2,1,0
+329,Washington Wizards,Miami Heat,True,9,3,6,0
+330,Minnesota Timberwolves,Oklahoma City Thunder,True,6,7,0,0
+331,Los Angeles Clippers,Milwaukee Bucks,True,9,3,9,0
+332,Sacramento Kings,San Antonio Spurs,True,6,3,2,0
+333,Los Angeles Lakers,Portland Trail Blazers,False,4,12,3,12
+334,New Orleans Pelicans,Dallas Mavericks,True,7,2,1,0
+335,Indiana Pacers,New York Knicks,False,3,5,0,0
+336,Cleveland Cavaliers,Philadelphia 76ers,True,10,2,10,0
+337,Phoenix Suns,Houston Rockets,True,8,5,2,1
+338,Memphis Grizzlies,Utah Jazz,True,8,3,0,0
+339,Denver Nuggets,Brooklyn Nets,True,6,6,0,0
+340,Atlanta Hawks,Charlotte Hornets,False,5,2,0,0
+341,Chicago Bulls,Miami Heat,True,10,4,7,1
+342,Toronto Raptors,Philadelphia 76ers,True,11,6,11,2
+343,Los Angeles Clippers,Washington Wizards,False,4,3,1,0
+344,Sacramento Kings,Dallas Mavericks,False,8,3,2,0
+345,Oklahoma City Thunder,Portland Trail Blazers,False,4,2,0,1
+346,Minnesota Timberwolves,Los Angeles Lakers,True,10,7,0,0
+347,Los Angeles Clippers,Indiana Pacers,False,9,4,4,1
+348,Cleveland Cavaliers,Boston Celtics,True,9,2,9,0
+349,Toronto Raptors,Chicago Bulls,False,4,6,0,0
+350,Sacramento Kings,Houston Rockets,False,9,4,3,1
+351,Orlando Magic,Milwaukee Bucks,True,10,3,10,3
+352,Detroit Pistons,New Orleans Pelicans,False,4,2,0,1
+353,Minnesota Timberwolves,Phoenix Suns,True,5,7,0,0
+354,Oklahoma City Thunder,Utah Jazz,False,9,3,1,2
+355,Memphis Grizzlies,Golden State Warriors,False,2,3,1,0
+356,Washington Wizards,Charlotte Hornets,True,5,3,0,0
+357,Atlanta Hawks,Miami Heat,True,11,3,8,1
+358,Denver Nuggets,Philadelphia 76ers,True,12,6,12,0
+359,New York Knicks,Portland Trail Blazers,True,4,1,0,0
+360,Houston Rockets,Cleveland Cavaliers,False,3,6,0,1
+361,Boston Celtics,Indiana Pacers,True,9,7,0,1
+362,Los Angeles Lakers,Orlando Magic,False,8,13,2,13
+363,Los Angeles Clippers,Toronto Raptors,False,9,5,0,2
+364,Charlotte Hornets,Brooklyn Nets,False,7,4,1,0
+365,Atlanta Hawks,Chicago Bulls,True,4,3,0,0
+366,Utah Jazz,Minnesota Timberwolves,False,3,4,0,0
+367,Memphis Grizzlies,Phoenix Suns,False,6,4,1,1
+368,New Orleans Pelicans,Milwaukee Bucks,True,11,2,11,0
+369,Oklahoma City Thunder,Sacramento Kings,True,5,4,0,3
+370,New York Knicks,Golden State Warriors,False,2,1,0,0
+371,Philadelphia 76ers,Boston Celtics,False,10,5,10,0
+372,Cleveland Cavaliers,San Antonio Spurs,False,7,2,3,0
+373,Dallas Mavericks,Detroit Pistons,False,7,8,1,4
+374,Portland Trail Blazers,Denver Nuggets,True,8,5,0,0
+375,Los Angeles Lakers,Miami Heat,False,12,14,9,14
+376,Houston Rockets,Orlando Magic,False,8,7,0,2
+377,New Orleans Pelicans,Philadelphia 76ers,True,13,2,13,0
+378,Indiana Pacers,Atlanta Hawks,False,3,6,0,1
+379,Charlotte Hornets,Chicago Bulls,False,5,5,1,1
+380,Milwaukee Bucks,Memphis Grizzlies,False,3,10,0,6
+381,Golden State Warriors,Utah Jazz,True,9,3,0,1
+382,Los Angeles Clippers,Minnesota Timberwolves,False,3,6,0,3
+383,New York Knicks,Sacramento Kings,False,6,2,1,1
+384,San Antonio Spurs,Phoenix Suns,False,6,2,0,0
+385,Brooklyn Nets,Toronto Raptors,True,9,6,0,2
+386,Los Angeles Clippers,Chicago Bulls,True,5,7,0,4
+387,Washington Wizards,Memphis Grizzlies,True,3,3,0,0
+388,Miami Heat,Dallas Mavericks,False,8,8,0,0
+389,Cleveland Cavaliers,Milwaukee Bucks,True,12,3,12,1
+390,Oklahoma City Thunder,Denver Nuggets,True,9,4,1,0
+391,Detroit Pistons,Houston Rockets,False,9,3,0,2
+392,Orlando Magic,New Orleans Pelicans,False,4,3,0,0
+393,Charlotte Hornets,Indiana Pacers,True,10,6,1,2
+394,Los Angeles Lakers,Atlanta Hawks,False,3,15,0,15
+395,Philadelphia 76ers,Brooklyn Nets,True,7,6,0,1
+396,New York Knicks,Denver Nuggets,True,10,3,2,2
+397,Sacramento Kings,Golden State Warriors,False,2,5,0,2
+398,Washington Wizards,Detroit Pistons,False,7,3,0,0
+399,Cleveland Cavaliers,Toronto Raptors,True,10,3,1,0
+400,San Antonio Spurs,Houston Rockets,True,9,3,0,1
+401,Miami Heat,Memphis Grizzlies,True,4,9,1,1
+402,Dallas Mavericks,Milwaukee Bucks,False,13,9,13,5
+403,Chicago Bulls,Oklahoma City Thunder,True,7,4,1,0
+404,Portland Trail Blazers,Phoenix Suns,False,6,5,0,0
+405,Sacramento Kings,Charlotte Hornets,True,6,6,1,3
+406,Los Angeles Lakers,Indiana Pacers,True,11,16,2,16
+407,Atlanta Hawks,New York Knicks,True,3,3,0,0
+408,Brooklyn Nets,New Orleans Pelicans,False,4,6,0,0
+409,Orlando Magic,Utah Jazz,True,10,4,1,1
+410,Phoenix Suns,Los Angeles Clippers,True,13,5,9,0
+411,Charlotte Hornets,Cleveland Cavaliers,True,3,6,0,0
+412,Toronto Raptors,Detroit Pistons,False,7,7,0,1
+413,Miami Heat,Philadelphia 76ers,False,14,9,14,0
+414,Chicago Bulls,Washington Wizards,False,4,4,0,0
+415,New Orleans Pelicans,Minnesota Timberwolves,False,3,2,0,0
+416,Memphis Grizzlies,Oklahoma City Thunder,True,8,5,2,2
+417,Orlando Magic,Denver Nuggets,True,11,4,3,0
+418,Boston Celtics,Dallas Mavericks,False,8,7,0,0
+419,Golden State Warriors,Portland Trail Blazers,True,5,3,1,0
+420,Utah Jazz,Atlanta Hawks,False,3,5,0,1
+421,Los Angeles Lakers,Milwaukee Bucks,True,13,16,0,0
+422,Brooklyn Nets,San Antonio Spurs,True,7,7,0,1
+423,Houston Rockets,Los Angeles Clippers,False,14,8,10,3
+424,Memphis Grizzlies,Cleveland Cavaliers,True,4,5,1,0
+425,Sacramento Kings,Indiana Pacers,True,12,6,3,0
+426,Detroit Pistons,Boston Celtics,True,10,4,0,3
+427,Washington Wizards,Toronto Raptors,True,11,4,2,1
+428,New York Knicks,Miami Heat,True,12,3,0,0
+429,Phoenix Suns,Oklahoma City Thunder,True,9,5,3,0
+430,Dallas Mavericks,Philadelphia 76ers,False,14,10,0,6
+431,Minnesota Timberwolves,Denver Nuggets,True,12,7,4,0
+432,Orlando Magic,Portland Trail Blazers,True,6,4,2,0
+433,New Orleans Pelicans,Golden State Warriors,True,2,3,0,1
+434,Utah Jazz,Charlotte Hornets,False,7,6,2,2
+435,Atlanta Hawks,Brooklyn Nets,True,8,3,1,0
+436,Chicago Bulls,Detroit Pistons,False,7,5,0,1
+437,Washington Wizards,Philadelphia 76ers,True,14,4,0,0
+438,Milwaukee Bucks,New York Knicks,False,4,11,1,7
+439,Sacramento Kings,Memphis Grizzlies,True,5,6,2,0
+440,Los Angeles Clippers,San Antonio Spurs,False,8,7,1,0
+441,Houston Rockets,Phoenix Suns,False,6,9,0,4
+442,Minnesota Timberwolves,Portland Trail Blazers,True,7,7,3,0
+443,Dallas Mavericks,Toronto Raptors,True,12,11,3,7
+444,Charlotte Hornets,Boston Celtics,True,11,6,1,0
+445,Indiana Pacers,Milwaukee Bucks,True,14,7,1,2
+446,Los Angeles Clippers,Oklahoma City Thunder,True,10,8,4,1
+447,Denver Nuggets,Los Angeles Lakers,False,11,6,1,0
+448,Atlanta Hawks,Cleveland Cavaliers,True,5,3,2,0
+449,Philadelphia 76ers,Detroit Pistons,False,7,6,0,0
+450,Toronto Raptors,Indiana Pacers,True,13,8,4,2
+451,Washington Wizards,New York Knicks,False,4,4,0,0
+452,Chicago Bulls,Orlando Magic,True,8,6,0,2
+453,Utah Jazz,Miami Heat,True,13,7,1,3
+454,San Antonio Spurs,Memphis Grizzlies,False,6,3,3,0
+455,Denver Nuggets,Phoenix Suns,False,6,7,0,1
+456,New Orleans Pelicans,Portland Trail Blazers,False,8,3,4,0
+457,Houston Rockets,Sacramento Kings,False,6,10,0,5
+458,Minnesota Timberwolves,Golden State Warriors,True,3,7,1,0
+459,Boston Celtics,Toronto Raptors,False,13,8,4,1
+460,Milwaukee Bucks,Philadelphia 76ers,True,15,12,1,8
+461,Houston Rockets,Golden State Warriors,True,4,11,2,6
+462,Los Angeles Clippers,Los Angeles Lakers,False,11,8,0,0
+463,New Orleans Pelicans,Denver Nuggets,False,13,4,5,1
+464,Washington Wizards,Detroit Pistons,True,7,5,0,1
+465,New York Knicks,Brooklyn Nets,False,9,3,2,0
+466,San Antonio Spurs,Dallas Mavericks,True,8,4,0,1
+467,Memphis Grizzlies,Oklahoma City Thunder,False,11,5,5,0
+468,Minnesota Timberwolves,Sacramento Kings,False,6,7,0,0
+469,Portland Trail Blazers,Utah Jazz,True,11,6,2,1
+470,Cleveland Cavaliers,Boston Celtics,True,12,3,2,0
+471,Oklahoma City Thunder,Charlotte Hornets,False,7,4,0,0
+472,Philadelphia 76ers,Orlando Magic,True,9,7,1,1
+473,Milwaukee Bucks,Atlanta Hawks,False,3,12,0,0
+474,Indiana Pacers,Miami Heat,True,14,7,2,0
+475,Phoenix Suns,Golden State Warriors,True,5,5,3,0
+476,Memphis Grizzlies,Denver Nuggets,True,13,6,0,1
+477,Toronto Raptors,Boston Celtics,False,13,8,3,0
+478,Indiana Pacers,New Orleans Pelicans,True,4,7,0,0
+479,Atlanta Hawks,Chicago Bulls,True,6,3,1,0
+480,Brooklyn Nets,Houston Rockets,True,10,7,1,0
+481,Philadelphia 76ers,Miami Heat,True,15,7,3,0
+482,Cleveland Cavaliers,Minnesota Timberwolves,False,3,3,0,0
+483,New York Knicks,Washington Wizards,False,4,4,0,1
+484,Dallas Mavericks,Golden State Warriors,False,6,11,4,0
+485,Orlando Magic,Milwaukee Bucks,True,15,4,2,0
+486,Detroit Pistons,San Antonio Spurs,True,8,4,0,0
+487,Phoenix Suns,Sacramento Kings,False,6,5,0,0
+488,Los Angeles Lakers,Portland Trail Blazers,False,8,16,0,0
+489,Utah Jazz,Los Angeles Clippers,False,14,7,0,0
+490,Oklahoma City Thunder,Toronto Raptors,False,13,5,0,1
+491,Sacramento Kings,Denver Nuggets,True,14,6,1,0
+492,Charlotte Hornets,Memphis Grizzlies,True,6,6,0,0
+493,Houston Rockets,New Orleans Pelicans,True,5,11,1,0
+494,Dallas Mavericks,Los Angeles Lakers,True,11,12,0,1
+495,Atlanta Hawks,Orlando Magic,False,10,3,2,0
+496,Miami Heat,Washington Wizards,True,4,10,0,1
+497,Milwaukee Bucks,Chicago Bulls,False,7,13,2,1
+498,Brooklyn Nets,Minnesota Timberwolves,True,3,7,0,0
+499,Detroit Pistons,Utah Jazz,True,12,4,3,0
+500,Phoenix Suns,Portland Trail Blazers,False,8,6,0,1
+501,Boston Celtics,Charlotte Hornets,False,7,9,0,2
+502,Philadelphia 76ers,Indiana Pacers,True,14,7,5,0
+503,Los Angeles Clippers,Sacramento Kings,False,6,9,0,1
+504,Denver Nuggets,Houston Rockets,True,11,8,2,2
+505,Golden State Warriors,San Antonio Spurs,True,9,3,1,0
+506,Cleveland Cavaliers,Toronto Raptors,True,13,4,0,1
+507,Dallas Mavericks,Oklahoma City Thunder,True,11,12,0,0
+508,Orlando Magic,Washington Wizards,False,5,4,1,0
+509,Portland Trail Blazers,New York Knicks,True,4,6,0,0
+510,Minnesota Timberwolves,Milwaukee Bucks,True,16,8,3,1
+511,Phoenix Suns,Los Angeles Lakers,True,12,7,1,2
+512,Charlotte Hornets,Cleveland Cavaliers,False,6,6,3,0
+513,Denver Nuggets,Indiana Pacers,False,15,8,6,0
+514,Toronto Raptors,Miami Heat,True,16,9,4,1
+515,Utah Jazz,Chicago Bulls,False,7,8,0,1
+516,Golden State Warriors,Minnesota Timberwolves,True,4,3,1,0
+517,Brooklyn Nets,Dallas Mavericks,True,9,7,1,0
+518,Oklahoma City Thunder,San Antonio Spurs,False,10,6,2,2
+519,Memphis Grizzlies,Sacramento Kings,True,6,6,0,0
+520,Detroit Pistons,Los Angeles Clippers,True,14,4,0,0
+521,Atlanta Hawks,Boston Celtics,True,13,4,0,1
+522,Miami Heat,Orlando Magic,True,10,10,0,0
+523,Portland Trail Blazers,Washington Wizards,False,5,6,0,0
+524,Philadelphia 76ers,Houston Rockets,True,12,7,3,0
+525,New York Knicks,Phoenix Suns,True,6,5,0,2
+526,New Orleans Pelicans,Los Angeles Lakers,True,13,5,2,2
+527,Memphis Grizzlies,Los Angeles Clippers,False,15,6,1,0
+528,Toronto Raptors,Brooklyn Nets,False,9,9,0,0
+529,Utah Jazz,Orlando Magic,False,11,9,1,2
+530,Indiana Pacers,Atlanta Hawks,True,3,7,0,0
+531,Oklahoma City Thunder,Cleveland Cavaliers,False,6,7,0,3
+532,Boston Celtics,Chicago Bulls,False,7,10,0,3
+533,Denver Nuggets,Washington Wizards,True,5,9,0,1
+534,Charlotte Hornets,Dallas Mavericks,False,10,7,2,1
+535,Detroit Pistons,Golden State Warriors,False,6,4,0,0
+536,San Antonio Spurs,Milwaukee Bucks,True,17,4,4,0
+537,New Orleans Pelicans,Sacramento Kings,False,7,5,1,0
+538,New York Knicks,Los Angeles Clippers,True,15,5,0,0
+539,Portland Trail Blazers,Miami Heat,True,17,7,5,1
+540,Minnesota Timberwolves,Cleveland Cavaliers,False,6,8,0,0
+541,Memphis Grizzlies,Phoenix Suns,False,7,7,1,1
+542,Detroit Pistons,Los Angeles Lakers,True,14,5,3,1
+543,Indiana Pacers,Charlotte Hornets,False,7,7,0,0
+544,Brooklyn Nets,Orlando Magic,True,11,7,0,0
+545,Oklahoma City Thunder,Philadelphia 76ers,True,16,8,2,4
+546,Boston Celtics,Washington Wizards,True,6,11,1,4
+547,Denver Nuggets,Atlanta Hawks,False,4,9,1,0
+548,Utah Jazz,New Orleans Pelicans,False,6,10,2,3
+549,Chicago Bulls,Dallas Mavericks,True,10,6,0,0
+550,Milwaukee Bucks,San Antonio Spurs,True,10,14,0,2
+551,Golden State Warriors,Sacramento Kings,True,7,3,0,0
+552,Detroit Pistons,Cleveland Cavaliers,False,6,5,0,0
+553,Portland Trail Blazers,Toronto Raptors,False,14,7,1,0
+554,Oklahoma City Thunder,Brooklyn Nets,False,9,8,0,0
+555,Minnesota Timberwolves,Memphis Grizzlies,True,7,9,1,1
+556,Sacramento Kings,Phoenix Suns,False,7,6,0,0
+557,New York Knicks,Los Angeles Lakers,True,15,5,4,0
+558,San Antonio Spurs,Boston Celtics,False,14,4,1,0
+559,Toronto Raptors,Charlotte Hornets,False,7,10,0,1
+560,Miami Heat,Indiana Pacers,False,15,10,0,0
+561,Washington Wizards,Orlando Magic,True,12,5,1,0
+562,Houston Rockets,Atlanta Hawks,False,4,11,0,0
+563,Denver Nuggets,Dallas Mavericks,False,11,10,1,1
+564,Chicago Bulls,New Orleans Pelicans,True,6,6,0,0
+565,New York Knicks,Utah Jazz,True,13,5,4,0
+566,Milwaukee Bucks,Golden State Warriors,False,6,14,0,0
+567,Cleveland Cavaliers,Detroit Pistons,False,8,4,1,0
+568,Boston Celtics,Philadelphia 76ers,True,17,11,3,0
+569,Portland Trail Blazers,Minnesota Timberwolves,True,5,8,2,1
+570,Houston Rockets,Oklahoma City Thunder,True,12,12,1,1
+571,Atlanta Hawks,Washington Wizards,True,7,4,2,0
+572,New Orleans Pelicans,New York Knicks,False,5,6,1,1
+573,Miami Heat,Brooklyn Nets,True,9,11,0,1
+574,Indiana Pacers,Chicago Bulls,False,7,8,0,1
+575,San Antonio Spurs,Memphis Grizzlies,True,8,5,2,1
+576,Orlando Magic,Phoenix Suns,True,7,5,0,1
+577,Charlotte Hornets,Utah Jazz,True,14,8,5,2
+578,Los Angeles Lakers,Dallas Mavericks,False,11,17,0,1
+579,Milwaukee Bucks,Sacramento Kings,False,8,15,1,1
+580,Golden State Warriors,Los Angeles Clippers,True,16,3,1,0
+581,Minnesota Timberwolves,Houston Rockets,True,13,9,4,0
+582,New Orleans Pelicans,Boston Celtics,True,14,7,0,2
+583,Chicago Bulls,Detroit Pistons,False,8,6,0,0
+584,Los Angeles Lakers,Oklahoma City Thunder,False,13,18,2,2
+585,Philadelphia 76ers,Dallas Mavericks,True,11,7,0,0
+586,Cleveland Cavaliers,Denver Nuggets,False,15,5,2,1
+587,Milwaukee Bucks,Portland Trail Blazers,False,8,16,0,2
+588,Miami Heat,New York Knicks,True,5,11,0,0
+589,Utah Jazz,Washington Wizards,False,8,11,3,4
+590,Atlanta Hawks,Brooklyn Nets,True,10,4,1,0
+591,Golden State Warriors,Memphis Grizzlies,True,9,3,3,0
+592,San Antonio Spurs,Toronto Raptors,False,14,5,0,0
+593,Los Angeles Clippers,Denver Nuggets,True,15,10,0,2
+594,Charlotte Hornets,Phoenix Suns,True,8,8,1,0
+595,New Orleans Pelicans,Detroit Pistons,False,8,7,0,0
+596,Philadelphia 76ers,Indiana Pacers,True,15,7,0,0
+597,Chicago Bulls,Boston Celtics,True,15,7,1,1
+598,Oklahoma City Thunder,Minnesota Timberwolves,False,6,9,3,1
+599,Charlotte Hornets,Portland Trail Blazers,True,8,8,0,0
+600,Orlando Magic,Sacramento Kings,False,8,5,0,0
+601,Cleveland Cavaliers,Los Angeles Lakers,True,16,6,5,2
+602,Phoenix Suns,Atlanta Hawks,True,4,7,0,0
+603,Utah Jazz,Brooklyn Nets,False,11,12,2,5
+604,Houston Rockets,Memphis Grizzlies,True,10,12,4,0
+605,New York Knicks,Milwaukee Bucks,True,18,5,5,0
+606,Dallas Mavericks,Golden State Warriors,False,6,12,0,0
+607,Cleveland Cavaliers,Los Angeles Clippers,True,17,6,2,0
+608,Detroit Pistons,Boston Celtics,False,16,6,2,1
+609,Brooklyn Nets,Philadelphia 76ers,True,18,7,4,0
+610,San Antonio Spurs,Miami Heat,True,18,6,6,1
+611,Washington Wizards,Chicago Bulls,True,7,5,0,0
+612,Indiana Pacers,Minnesota Timberwolves,False,6,9,0,2
+613,Toronto Raptors,Oklahoma City Thunder,False,13,11,0,2
+614,Charlotte Hornets,Denver Nuggets,True,16,8,1,0
+615,Portland Trail Blazers,Houston Rockets,False,14,8,5,0
+616,Dallas Mavericks,Sacramento Kings,False,8,13,0,1
+617,Orlando Magic,Los Angeles Lakers,False,17,6,6,1
+618,Phoenix Suns,New York Knicks,False,6,7,1,0
+619,Boston Celtics,Milwaukee Bucks,True,19,11,6,0
+620,Utah Jazz,New Orleans Pelicans,True,7,13,1,6
+621,Denver Nuggets,Golden State Warriors,False,6,11,0,2
+622,Orlando Magic,Los Angeles Clippers,True,18,7,3,2
+623,Minnesota Timberwolves,Indiana Pacers,True,16,9,1,0
+624,Chicago Bulls,Philadelphia 76ers,True,19,7,5,0
+625,Washington Wizards,Toronto Raptors,True,14,5,0,0
+626,Cleveland Cavaliers,Memphis Grizzlies,True,11,6,5,0
+627,Miami Heat,Oklahoma City Thunder,False,13,11,0,0
+628,Atlanta Hawks,San Antonio Spurs,False,11,4,1,0
+629,Portland Trail Blazers,Dallas Mavericks,True,12,9,1,1
+630,Los Angeles Clippers,New Orleans Pelicans,False,8,10,2,0
+631,Milwaukee Bucks,Brooklyn Nets,False,11,17,0,3
+632,Phoenix Suns,Boston Celtics,False,16,8,0,1
+633,Detroit Pistons,Atlanta Hawks,False,5,7,1,2
+634,Philadelphia 76ers,New York Knicks,False,6,7,0,0
+635,Cleveland Cavaliers,Chicago Bulls,True,8,6,1,0
+636,Toronto Raptors,Minnesota Timberwolves,False,6,12,0,3
+637,Orlando Magic,Golden State Warriors,True,6,7,0,0
+638,Los Angeles Lakers,Houston Rockets,False,14,19,0,3
+639,Portland Trail Blazers,Oklahoma City Thunder,True,13,9,0,0
+640,Sacramento Kings,Utah Jazz,True,15,7,6,1
+641,Miami Heat,San Antonio Spurs,True,11,12,0,1
+642,Indiana Pacers,Denver Nuggets,False,17,10,2,3
+643,Detroit Pistons,Washington Wizards,True,8,8,0,3
+644,Toronto Raptors,Atlanta Hawks,False,5,13,0,4
+645,Philadelphia 76ers,Brooklyn Nets,False,11,8,0,1
+646,Orlando Magic,Charlotte Hornets,False,7,7,0,0
+647,New York Knicks,Cleveland Cavaliers,False,6,5,0,0
+648,Oklahoma City Thunder,Houston Rockets,False,14,10,0,2
+649,New Orleans Pelicans,Memphis Grizzlies,False,12,8,6,1
+650,Sacramento Kings,Miami Heat,True,19,7,7,0
+651,Chicago Bulls,Milwaukee Bucks,True,20,7,7,0
+652,Los Angeles Lakers,Boston Celtics,True,16,20,0,4
+653,Denver Nuggets,Minnesota Timberwolves,False,6,12,0,3
+654,San Antonio Spurs,Phoenix Suns,False,9,6,2,0
+655,Indiana Pacers,Utah Jazz,True,16,11,7,4
+656,Golden State Warriors,Portland Trail Blazers,True,9,3,1,0
+657,Los Angeles Clippers,Dallas Mavericks,False,13,11,2,1
+658,Sacramento Kings,Detroit Pistons,True,8,7,0,0
+659,Oklahoma City Thunder,Orlando Magic,False,13,11,2,3
+660,Philadelphia 76ers,Toronto Raptors,True,15,9,1,2
+661,Los Angeles Clippers,Atlanta Hawks,True,5,12,0,2
+662,Memphis Grizzlies,Boston Celtics,True,17,8,1,2
+663,Washington Wizards,Miami Heat,True,20,5,8,0
+664,Los Angeles Lakers,New York Knicks,False,6,20,0,0
+665,Minnesota Timberwolves,Chicago Bulls,True,9,9,2,0
+666,Denver Nuggets,Houston Rockets,True,14,13,0,4
+667,Indiana Pacers,Phoenix Suns,False,9,11,0,0
+668,San Antonio Spurs,New Orleans Pelicans,False,8,7,0,1
+669,Utah Jazz,Golden State Warriors,False,7,13,1,0
+670,Washington Wizards,Cleveland Cavaliers,False,6,5,0,0
+671,Los Angeles Lakers,Brooklyn Nets,False,11,21,0,1
+672,Dallas Mavericks,Portland Trail Blazers,False,10,14,2,2
+673,Milwaukee Bucks,Charlotte Hornets,False,7,18,0,4
+674,Memphis Grizzlies,Detroit Pistons,False,9,8,1,0
+675,Boston Celtics,Orlando Magic,False,13,11,0,0
+676,Toronto Raptors,New York Knicks,False,6,14,0,5
+677,Sacramento Kings,Chicago Bulls,False,10,7,3,0
+678,Los Angeles Clippers,Miami Heat,False,21,12,9,0
+679,Houston Rockets,Minnesota Timberwolves,False,6,12,0,0
+680,Denver Nuggets,New Orleans Pelicans,False,8,13,0,0
+681,Atlanta Hawks,Oklahoma City Thunder,True,14,5,1,1
+682,Phoenix Suns,San Antonio Spurs,False,12,9,1,2
+683,Indiana Pacers,Golden State Warriors,False,7,12,0,1
+684,Dallas Mavericks,Utah Jazz,True,17,15,8,3
+685,Brooklyn Nets,Detroit Pistons,False,9,7,0,0
+686,Chicago Bulls,Cleveland Cavaliers,False,6,7,0,0
+687,Oklahoma City Thunder,Minnesota Timberwolves,False,6,12,0,4
+688,Los Angeles Lakers,Philadelphia 76ers,True,20,22,6,2
+689,Houston Rockets,Denver Nuggets,True,17,13,0,1
+690,Toronto Raptors,San Antonio Spurs,False,12,15,0,6
+691,Washington Wizards,Atlanta Hawks,True,6,6,1,1
+692,Phoenix Suns,Memphis Grizzlies,True,12,10,0,3
+693,Boston Celtics,New Orleans Pelicans,True,8,12,0,1
+694,Brooklyn Nets,New York Knicks,True,6,8,0,1
+695,Los Angeles Clippers,Orlando Magic,False,13,13,0,1
+696,Indiana Pacers,Portland Trail Blazers,True,10,13,0,2
+697,Cleveland Cavaliers,Detroit Pistons,False,9,6,0,0
+698,Orlando Magic,Miami Heat,True,21,8,0,1
+699,San Antonio Spurs,Chicago Bulls,True,10,8,0,2
+700,Sacramento Kings,Minnesota Timberwolves,False,6,8,0,1
+701,Dallas Mavericks,Oklahoma City Thunder,False,15,15,2,0
+702,Houston Rockets,Utah Jazz,False,18,13,9,0
+703,New York Knicks,Charlotte Hornets,True,7,6,0,1
+704,Golden State Warriors,Philadelphia 76ers,True,21,3,7,0
+705,New Orleans Pelicans,Cleveland Cavaliers,False,6,9,0,2
+706,Atlanta Hawks,Toronto Raptors,True,16,5,2,0
+707,Denver Nuggets,Memphis Grizzlies,True,13,14,1,1
+708,Boston Celtics,Miami Heat,False,22,12,1,0
+709,Washington Wizards,Milwaukee Bucks,True,21,6,8,0
+710,Phoenix Suns,Dallas Mavericks,False,13,10,0,0
+711,Chicago Bulls,Indiana Pacers,True,17,8,2,1
+712,Detroit Pistons,Brooklyn Nets,True,11,8,0,0
+713,Memphis Grizzlies,New York Knicks,False,7,9,1,1
+714,Utah Jazz,San Antonio Spurs,True,12,14,0,1
+715,Houston Rockets,Portland Trail Blazers,True,11,14,1,1
+716,Oklahoma City Thunder,Sacramento Kings,False,8,13,0,5
+717,Toronto Raptors,Cleveland Cavaliers,False,6,16,0,7
+718,Charlotte Hornets,Washington Wizards,True,9,8,1,0
+719,Philadelphia 76ers,Atlanta Hawks,True,7,9,2,0
+720,Golden State Warriors,Boston Celtics,True,18,3,2,0
+721,Utah Jazz,Denver Nuggets,True,18,14,1,0
+722,Sacramento Kings,Los Angeles Clippers,False,19,9,4,2
+723,Toronto Raptors,Detroit Pistons,False,9,17,0,8
+724,Chicago Bulls,Brooklyn Nets,True,12,8,1,0
+725,Dallas Mavericks,Houston Rockets,True,15,16,1,1
+726,Memphis Grizzlies,New Orleans Pelicans,True,9,10,1,2
+727,Denver Nuggets,Milwaukee Bucks,False,22,14,9,0
+728,Oklahoma City Thunder,Phoenix Suns,False,9,14,0,6
+729,Portland Trail Blazers,Los Angeles Lakers,False,17,9,0,0
+730,Minnesota Timberwolves,Los Angeles Clippers,True,19,9,0,0
+731,New York Knicks,Indiana Pacers,False,18,6,3,0
+732,Miami Heat,Orlando Magic,False,13,12,0,0
+733,Golden State Warriors,Cleveland Cavaliers,False,6,3,0,0
+734,Brooklyn Nets,Washington Wizards,True,10,8,2,0
+735,Philadelphia 76ers,Boston Celtics,True,19,9,3,0
+736,Atlanta Hawks,Dallas Mavericks,True,13,5,0,0
+737,Charlotte Hornets,San Antonio Spurs,True,13,8,1,0
+738,Los Angeles Lakers,Sacramento Kings,False,8,22,0,0
+739,Utah Jazz,Portland Trail Blazers,True,12,14,2,0
+740,Denver Nuggets,Detroit Pistons,True,9,15,0,1
+741,New Orleans Pelicans,Houston Rockets,True,16,10,2,3
+742,Phoenix Suns,Milwaukee Bucks,True,22,11,0,1
+743,Chicago Bulls,Toronto Raptors,True,17,8,3,0
+744,Orlando Magic,Charlotte Hornets,False,8,8,1,0
+745,New York Knicks,Cleveland Cavaliers,False,6,7,0,1
+746,Dallas Mavericks,Indiana Pacers,False,18,16,0,0
+747,Golden State Warriors,Washington Wizards,False,11,4,3,1
+748,Boston Celtics,Atlanta Hawks,False,8,13,3,1
+749,Phoenix Suns,Brooklyn Nets,True,13,11,2,0
+750,Philadelphia 76ers,Miami Heat,True,22,9,0,0
+751,Detroit Pistons,Memphis Grizzlies,True,14,8,2,0
+752,Minnesota Timberwolves,Sacramento Kings,True,8,9,0,0
+753,San Antonio Spurs,Los Angeles Clippers,True,20,8,1,0
+754,Milwaukee Bucks,New Orleans Pelicans,False,10,19,2,5
+755,Charlotte Hornets,Houston Rockets,True,17,8,3,0
+756,Portland Trail Blazers,Denver Nuggets,True,19,10,2,1
+757,San Antonio Spurs,Los Angeles Lakers,True,17,8,0,0
+758,Phoenix Suns,Detroit Pistons,True,10,11,1,0
+759,Orlando Magic,Boston Celtics,True,20,9,4,1
+760,Golden State Warriors,Brooklyn Nets,True,14,5,3,2
+761,Indiana Pacers,Toronto Raptors,True,18,13,4,0
+762,Atlanta Hawks,Minnesota Timberwolves,False,6,5,0,0
+763,Cleveland Cavaliers,Oklahoma City Thunder,True,15,7,0,1
+764,Memphis Grizzlies,Dallas Mavericks,False,14,10,1,0
+765,Denver Nuggets,Utah Jazz,False,18,15,0,0
+766,Miami Heat,Los Angeles Clippers,True,21,13,2,1
+767,Orlando Magic,New York Knicks,True,7,9,0,0
+768,New Orleans Pelicans,Chicago Bulls,False,11,10,1,0
+769,Philadelphia 76ers,Milwaukee Bucks,True,23,9,1,0
+770,San Antonio Spurs,Portland Trail Blazers,True,13,8,3,0
+771,Houston Rockets,Los Angeles Lakers,False,18,14,1,0
+772,Memphis Grizzlies,Philadelphia 76ers,True,22,11,8,1
+773,Dallas Mavericks,Washington Wizards,True,11,17,0,1
+774,Atlanta Hawks,Boston Celtics,True,21,6,5,1
+775,Toronto Raptors,Indiana Pacers,False,18,18,0,9
+776,Detroit Pistons,Oklahoma City Thunder,True,16,8,1,0
+777,Houston Rockets,Phoenix Suns,True,9,15,0,1
+778,Miami Heat,Sacramento Kings,True,9,13,1,0
+779,Portland Trail Blazers,Utah Jazz,True,18,10,0,0
+780,Milwaukee Bucks,Orlando Magic,False,13,20,0,6
+781,Dallas Mavericks,Charlotte Hornets,False,8,17,0,0
+782,New York Knicks,Detroit Pistons,False,11,8,2,2
+783,New Orleans Pelicans,Indiana Pacers,False,18,11,0,1
+784,Brooklyn Nets,Toronto Raptors,True,19,8,5,0
+785,Los Angeles Clippers,Minnesota Timberwolves,True,6,14,0,2
+786,Los Angeles Lakers,Golden State Warriors,False,7,23,0,1
+787,Denver Nuggets,Phoenix Suns,False,10,16,1,1
+788,San Antonio Spurs,Sacramento Kings,True,10,8,2,0
+789,Boston Celtics,Oklahoma City Thunder,False,17,14,2,2
+790,New York Knicks,Atlanta Hawks,True,8,9,0,3
+791,Chicago Bulls,Philadelphia 76ers,True,23,8,9,0
+792,Memphis Grizzlies,Washington Wizards,False,12,11,1,0
+793,Utah Jazz,Houston Rockets,False,18,14,4,0
+794,Los Angeles Clippers,Cleveland Cavaliers,False,6,14,0,0
+795,Miami Heat,Portland Trail Blazers,True,14,13,4,0
+796,Charlotte Hornets,Detroit Pistons,False,11,8,0,0
+797,Brooklyn Nets,Indiana Pacers,False,18,8,0,0
+798,Atlanta Hawks,Orlando Magic,True,13,6,0,0
+799,Minnesota Timberwolves,Toronto Raptors,True,20,9,6,0
+800,Sacramento Kings,Milwaukee Bucks,True,24,10,2,3
+801,Utah Jazz,Dallas Mavericks,False,14,15,0,1
+802,San Antonio Spurs,Denver Nuggets,True,20,8,3,0
+803,Miami Heat,Golden State Warriors,False,7,13,0,0
+804,Phoenix Suns,Los Angeles Lakers,True,18,11,0,0
+805,Los Angeles Clippers,Philadelphia 76ers,True,24,15,10,1
+806,Chicago Bulls,Washington Wizards,True,12,8,0,0
+807,Portland Trail Blazers,New Orleans Pelicans,True,10,10,0,0
+808,San Antonio Spurs,Oklahoma City Thunder,False,17,8,0,0
+809,Boston Celtics,Houston Rockets,True,18,15,0,3
+810,Atlanta Hawks,Cleveland Cavaliers,True,6,6,0,0
+811,Detroit Pistons,Orlando Magic,True,14,8,1,0
+812,Toronto Raptors,Brooklyn Nets,True,15,19,4,10
+813,Milwaukee Bucks,Indiana Pacers,True,18,21,0,7
+814,Washington Wizards,New York Knicks,False,8,6,1,0
+815,Portland Trail Blazers,Memphis Grizzlies,True,15,10,3,0
+816,Charlotte Hornets,Minnesota Timberwolves,False,7,9,1,1
+817,Sacramento Kings,Dallas Mavericks,True,14,10,0,0
+818,Golden State Warriors,Phoenix Suns,True,10,5,0,0
+819,Miami Heat,Utah Jazz,True,19,14,1,1
+820,Los Angeles Lakers,Denver Nuggets,False,21,24,4,2
+821,Los Angeles Clippers,Boston Celtics,True,22,15,6,0
+822,Oklahoma City Thunder,New Orleans Pelicans,False,11,15,1,7
+823,Milwaukee Bucks,Detroit Pistons,False,11,21,0,0
+824,Miami Heat,Atlanta Hawks,True,9,14,1,0
+825,Charlotte Hornets,Chicago Bulls,False,11,10,0,2
+826,Brooklyn Nets,Philadelphia 76ers,True,25,9,11,1
+827,Memphis Grizzlies,Sacramento Kings,True,11,12,3,1
+828,Houston Rockets,Golden State Warriors,False,7,15,0,0
+829,Dallas Mavericks,Orlando Magic,False,15,18,2,1
+830,Cleveland Cavaliers,Washington Wizards,False,13,7,1,0
+831,Indiana Pacers,New York Knicks,False,8,13,0,0
+832,Phoenix Suns,Toronto Raptors,True,21,11,7,0
+833,Boston Celtics,Minnesota Timberwolves,False,7,15,0,0
+834,Denver Nuggets,Oklahoma City Thunder,True,17,17,0,2
+835,San Antonio Spurs,Utah Jazz,False,20,9,2,1
+836,Memphis Grizzlies,Los Angeles Lakers,True,19,12,1,0
+837,New Orleans Pelicans,Portland Trail Blazers,False,15,12,5,2
+838,Sacramento Kings,Los Angeles Clippers,False,22,10,3,0
+839,Brooklyn Nets,Charlotte Hornets,False,8,9,0,0
+840,Dallas Mavericks,Atlanta Hawks,True,10,19,2,2
+841,Phoenix Suns,Chicago Bulls,False,11,11,0,0
+842,Cleveland Cavaliers,Miami Heat,True,23,8,1,1
+843,Philadelphia 76ers,Milwaukee Bucks,True,25,9,3,0
+844,Houston Rockets,Utah Jazz,False,20,16,0,1
+845,Boston Celtics,Los Angeles Lakers,True,20,16,2,1
+846,Minnesota Timberwolves,Denver Nuggets,True,21,9,0,0
+847,Indiana Pacers,Toronto Raptors,True,22,14,8,1
+848,Washington Wizards,Chicago Bulls,True,11,7,0,1
+849,San Antonio Spurs,Oklahoma City Thunder,True,18,10,1,2
+850,New Orleans Pelicans,Golden State Warriors,False,7,13,0,3
+851,Detroit Pistons,Portland Trail Blazers,True,15,8,0,0
+852,Miami Heat,Cleveland Cavaliers,True,7,14,1,0
+853,Atlanta Hawks,Philadelphia 76ers,True,26,6,12,0
+854,Milwaukee Bucks,Washington Wizards,False,13,22,0,1
+855,Orlando Magic,Brooklyn Nets,False,16,9,5,0
+856,New York Knicks,Houston Rockets,True,19,9,1,0
+857,Minnesota Timberwolves,Dallas Mavericks,True,15,9,1,0
+858,Phoenix Suns,Utah Jazz,False,20,12,0,1
+859,Memphis Grizzlies,Los Angeles Clippers,True,22,12,0,0
+860,Charlotte Hornets,Indiana Pacers,True,19,11,1,3
+861,Milwaukee Bucks,Toronto Raptors,False,23,23,9,2
+862,Oklahoma City Thunder,Chicago Bulls,False,12,16,1,8
+863,Detroit Pistons,Denver Nuggets,True,22,8,1,0
+864,New Orleans Pelicans,Los Angeles Lakers,True,21,14,3,4
+865,Boston Celtics,Portland Trail Blazers,False,16,16,1,0
+866,Sacramento Kings,Golden State Warriors,False,7,11,0,1
+867,New York Knicks,Charlotte Hornets,True,8,9,0,0
+868,Philadelphia 76ers,Cleveland Cavaliers,True,8,9,2,0
+869,Brooklyn Nets,Washington Wizards,True,13,10,0,1
+870,Orlando Magic,Atlanta Hawks,False,11,10,3,1
+871,Minnesota Timberwolves,Miami Heat,False,24,9,2,0
+872,Memphis Grizzlies,Houston Rockets,True,20,12,2,0
+873,Dallas Mavericks,San Antonio Spurs,False,14,19,2,0
+874,Los Angeles Clippers,Phoenix Suns,False,11,15,1,0
+875,Boston Celtics,Utah Jazz,False,20,17,0,1
+876,New York Knicks,Philadelphia 76ers,True,27,9,13,0
+877,Portland Trail Blazers,Indiana Pacers,True,20,10,2,0
+878,Sacramento Kings,Oklahoma City Thunder,True,19,12,2,2
+879,Los Angeles Lakers,Golden State Warriors,False,7,25,0,3
+880,Minnesota Timberwolves,Orlando Magic,True,15,10,0,1
+881,Brooklyn Nets,Atlanta Hawks,True,11,10,0,0
+882,Charlotte Hornets,Toronto Raptors,False,23,11,0,0
+883,Sacramento Kings,Memphis Grizzlies,False,16,12,4,0
+884,Dallas Mavericks,Miami Heat,True,24,20,0,1
+885,Oklahoma City Thunder,Milwaukee Bucks,True,26,17,4,9
+886,Cleveland Cavaliers,New Orleans Pelicans,True,11,8,0,0
+887,Detroit Pistons,Phoenix Suns,False,11,8,0,0
+888,Washington Wizards,Utah Jazz,True,20,7,0,0
+889,Denver Nuggets,Los Angeles Clippers,True,23,17,1,0
+890,Chicago Bulls,New York Knicks,True,8,8,0,0
+891,Portland Trail Blazers,Atlanta Hawks,True,12,10,1,0
+892,Brooklyn Nets,Miami Heat,True,25,10,1,0
+893,Indiana Pacers,Cleveland Cavaliers,False,9,14,3,0
+894,Los Angeles Lakers,Memphis Grizzlies,True,16,26,0,4
+895,Houston Rockets,Boston Celtics,False,23,17,7,2
+896,Orlando Magic,San Antonio Spurs,True,14,11,0,2
+897,Golden State Warriors,Phoenix Suns,False,11,5,0,0
+898,Milwaukee Bucks,Charlotte Hornets,False,9,24,1,3
+899,Philadelphia 76ers,Los Angeles Clippers,True,24,9,2,0
+900,Dallas Mavericks,Minnesota Timberwolves,False,7,20,0,0
+901,Toronto Raptors,Denver Nuggets,True,23,19,2,0
+902,Detroit Pistons,Sacramento Kings,True,12,9,4,1
+903,Los Angeles Lakers,New Orleans Pelicans,False,12,26,1,0
+904,Washington Wizards,Golden State Warriors,False,7,7,0,0
+905,Utah Jazz,Cleveland Cavaliers,False,9,16,0,2
+906,Houston Rockets,New York Knicks,True,9,18,1,3
+907,Portland Trail Blazers,Orlando Magic,False,16,10,1,0
+908,Memphis Grizzlies,Atlanta Hawks,False,13,12,2,0
+909,Milwaukee Bucks,Miami Heat,True,26,25,2,4
+910,Dallas Mavericks,Chicago Bulls,True,12,21,0,1
+911,Indiana Pacers,San Antonio Spurs,False,15,15,1,1
+912,San Antonio Spurs,Charlotte Hornets,False,9,10,0,0
+913,Brooklyn Nets,Boston Celtics,False,23,10,0,0
+914,Minnesota Timberwolves,New Orleans Pelicans,False,12,10,0,0
+915,Los Angeles Clippers,Oklahoma City Thunder,False,20,16,3,1
+916,Golden State Warriors,Denver Nuggets,False,24,6,3,1
+917,Toronto Raptors,Phoenix Suns,False,11,19,0,0
+918,Philadelphia 76ers,Los Angeles Lakers,True,22,9,4,0
+919,Washington Wizards,Sacramento Kings,True,13,8,5,1
+920,Boston Celtics,Cleveland Cavaliers,False,9,18,0,2
+921,Oklahoma City Thunder,Detroit Pistons,False,11,17,0,0
+922,Indiana Pacers,Milwaukee Bucks,True,27,16,5,2
+923,Memphis Grizzlies,Brooklyn Nets,False,16,13,0,1
+924,Utah Jazz,New York Knicks,False,10,17,2,3
+925,Orlando Magic,Miami Heat,True,27,11,3,0
+926,Chicago Bulls,Minnesota Timberwolves,True,7,8,0,0
+927,New Orleans Pelicans,Dallas Mavericks,True,16,14,2,0
+928,Washington Wizards,Portland Trail Blazers,True,16,8,0,0
+929,Denver Nuggets,Charlotte Hornets,False,9,17,0,0
+930,Los Angeles Clippers,Houston Rockets,False,21,17,3,2
+931,Philadelphia 76ers,Sacramento Kings,False,14,9,6,0
+932,Toronto Raptors,Golden State Warriors,False,7,20,0,1
+933,Atlanta Hawks,Washington Wizards,True,14,6,1,0
+934,San Antonio Spurs,Brooklyn Nets,True,16,11,0,1
+935,Oklahoma City Thunder,New York Knicks,False,10,18,0,1
+936,Indiana Pacers,Chicago Bulls,False,13,16,1,0
+937,Orlando Magic,Minnesota Timberwolves,False,8,11,1,0
+938,Miami Heat,New Orleans Pelicans,True,12,14,0,0
+939,Utah Jazz,Boston Celtics,False,23,18,0,4
+940,Memphis Grizzlies,Dallas Mavericks,True,17,14,3,2
+941,Portland Trail Blazers,Phoenix Suns,True,11,11,0,1
+942,Milwaukee Bucks,Los Angeles Lakers,True,23,25,5,0
+943,Houston Rockets,Charlotte Hornets,True,9,18,0,0
+944,Utah Jazz,Detroit Pistons,False,11,19,0,5
+945,Denver Nuggets,Cleveland Cavaliers,True,9,18,0,1
+946,Atlanta Hawks,Memphis Grizzlies,True,17,6,1,0
+947,Philadelphia 76ers,Golden State Warriors,True,7,10,0,1
+948,Sacramento Kings,Portland Trail Blazers,False,17,13,1,1
+949,Chicago Bulls,Brooklyn Nets,True,17,8,1,0
+950,New Orleans Pelicans,Minnesota Timberwolves,False,8,14,0,0
+951,Los Angeles Lakers,Los Angeles Clippers,False,25,27,3,1
+952,Oklahoma City Thunder,Boston Celtics,False,23,19,0,2
+953,Milwaukee Bucks,Phoenix Suns,True,12,25,1,0
+954,Miami Heat,Washington Wizards,False,15,14,2,0
+955,Indiana Pacers,Dallas Mavericks,False,18,17,4,1
+956,Orlando Magic,Houston Rockets,False,21,12,0,1
+957,Detroit Pistons,New York Knicks,True,10,9,0,0
+958,San Antonio Spurs,Cleveland Cavaliers,True,10,11,1,0
+959,Toronto Raptors,Sacramento Kings,False,14,21,0,2
+960,Charlotte Hornets,Atlanta Hawks,True,13,12,0,1
+961,Milwaukee Bucks,Denver Nuggets,True,24,25,0,0
+962,Toronto Raptors,Utah Jazz,False,21,22,1,3
+963,New York Knicks,Washington Wizards,True,15,9,0,0
+964,Boston Celtics,Indiana Pacers,False,21,19,3,3
+965,Minnesota Timberwolves,Houston Rockets,True,21,11,0,1
+966,Dallas Mavericks,San Antonio Spurs,True,15,21,0,0
+967,Orlando Magic,Memphis Grizzlies,False,18,13,2,2
+968,Cleveland Cavaliers,Chicago Bulls,True,13,8,0,0
+969,Phoenix Suns,Portland Trail Blazers,True,17,13,0,2
+970,Brooklyn Nets,Los Angeles Lakers,False,24,11,6,1
+971,Los Angeles Clippers,Golden State Warriors,False,8,18,1,3
+972,Detroit Pistons,Philadelphia 76ers,True,28,9,14,0
+973,New York Knicks,Atlanta Hawks,False,14,9,1,0
+974,Charlotte Hornets,Miami Heat,False,28,12,4,0
+975,Denver Nuggets,Dallas Mavericks,True,18,18,0,0
+976,Utah Jazz,New Orleans Pelicans,False,13,20,1,6
+977,Los Angeles Clippers,Los Angeles Lakers,True,24,19,0,4
+978,Orlando Magic,Brooklyn Nets,False,18,14,2,3
+979,Memphis Grizzlies,Portland Trail Blazers,True,18,14,1,0
+980,Phoenix Suns,Washington Wizards,False,16,13,1,0
+981,Boston Celtics,Milwaukee Bucks,True,28,20,6,4
+982,Sacramento Kings,San Antonio Spurs,True,16,14,1,2
+983,Houston Rockets,Dallas Mavericks,False,19,18,1,0
+984,Miami Heat,Denver Nuggets,False,25,15,1,1
+985,Utah Jazz,Oklahoma City Thunder,True,20,21,0,7
+986,New Orleans Pelicans,Los Angeles Clippers,True,25,15,0,1
+987,Philadelphia 76ers,Indiana Pacers,True,21,10,0,0
+988,Los Angeles Lakers,Toronto Raptors,True,23,28,0,2
+989,Washington Wizards,Brooklyn Nets,True,18,8,0,0
+990,Portland Trail Blazers,Boston Celtics,True,23,11,0,0
+991,San Antonio Spurs,Memphis Grizzlies,False,18,11,0,0
+992,Sacramento Kings,Orlando Magic,True,16,14,0,0
+993,Milwaukee Bucks,Houston Rockets,True,22,25,1,0
+994,Dallas Mavericks,Phoenix Suns,True,13,21,2,0
+995,Toronto Raptors,Miami Heat,False,28,23,0,4
+996,Indiana Pacers,Washington Wizards,False,16,18,0,2
+997,Denver Nuggets,Oklahoma City Thunder,False,21,18,1,0
+998,Memphis Grizzlies,New Orleans Pelicans,True,13,14,0,0
+999,San Antonio Spurs,Philadelphia 76ers,True,29,12,15,1
+1000,Los Angeles Lakers,Utah Jazz,False,21,28,0,0
+1001,Brooklyn Nets,Milwaukee Bucks,False,29,12,7,2
+1002,Dallas Mavericks,Sacramento Kings,False,14,21,0,0
+1003,Phoenix Suns,Los Angeles Clippers,False,26,14,1,1
+1004,Orlando Magic,Indiana Pacers,True,22,15,1,4
+1005,Boston Celtics,Miami Heat,True,28,20,0,0
+1006,Houston Rockets,Portland Trail Blazers,True,19,19,2,1
+1007,Memphis Grizzlies,Utah Jazz,True,21,14,0,0
+1008,Philadelphia 76ers,Washington Wizards,False,16,10,0,0
+1009,Denver Nuggets,San Antonio Spurs,False,17,19,2,1
+1010,Oklahoma City Thunder,Los Angeles Lakers,False,25,20,1,3
+1011,Toronto Raptors,Orlando Magic,False,17,24,1,5
+1012,Brooklyn Nets,Boston Celtics,True,24,13,1,3
+1013,New Orleans Pelicans,Sacramento Kings,True,14,15,0,0
+1014,Miami Heat,Milwaukee Bucks,True,29,16,0,2
+1015,Indiana Pacers,Phoenix Suns,True,14,19,3,3
+1016,Los Angeles Clippers,Dallas Mavericks,False,19,19,0,0
+1017,Portland Trail Blazers,Denver Nuggets,False,25,11,0,0
+1018,Los Angeles Lakers,Houston Rockets,True,23,29,2,1
+1019,Utah Jazz,San Antonio Spurs,True,17,21,0,0
+1020,Oklahoma City Thunder,Memphis Grizzlies,True,18,21,0,4
+1021,Sacramento Kings,Brooklyn Nets,True,19,14,1,0
+1022,Orlando Magic,Philadelphia 76ers,True,30,15,16,0
+1023,Washington Wizards,New Orleans Pelicans,True,14,8,1,0
+1024,Boston Celtics,Toronto Raptors,False,24,20,1,0
+1025,Los Angeles Clippers,Portland Trail Blazers,False,20,20,3,1
+1026,Utah Jazz,Denver Nuggets,True,25,21,0,0
+1027,Los Angeles Lakers,Indiana Pacers,True,23,29,2,0
+1028,Phoenix Suns,Miami Heat,False,29,15,1,2
+1029,Milwaukee Bucks,Dallas Mavericks,True,19,25,0,0
+1030,Washington Wizards,Oklahoma City Thunder,True,21,8,0,0
+1031,Memphis Grizzlies,Toronto Raptors,True,24,14,0,0
+1032,San Antonio Spurs,New Orleans Pelicans,False,15,12,2,0
+1033,Orlando Magic,Boston Celtics,True,25,15,2,0
+1034,Philadelphia 76ers,Portland Trail Blazers,True,20,11,0,1
+1035,Houston Rockets,Sacramento Kings,False,15,19,1,0
+1036,Brooklyn Nets,Los Angeles Clippers,False,26,13,0,0
+1037,Oklahoma City Thunder,Phoenix Suns,True,15,21,4,0
+1038,Dallas Mavericks,Utah Jazz,False,22,22,1,1
+1039,Toronto Raptors,Milwaukee Bucks,False,30,25,1,6
+1040,Indiana Pacers,Miami Heat,True,29,19,0,0
+1041,Denver Nuggets,Los Angeles Lakers,True,25,20,0,2
+1042,Brooklyn Nets,Orlando Magic,False,17,14,0,1
+1043,Houston Rockets,San Antonio Spurs,True,18,20,1,1
+1044,Phoenix Suns,Philadelphia 76ers,False,31,16,17,3
+1045,Boston Celtics,Memphis Grizzlies,False,19,21,1,1
+1046,Portland Trail Blazers,Dallas Mavericks,False,20,12,1,1
+1047,Milwaukee Bucks,Washington Wizards,False,16,25,0,0
+1048,New Orleans Pelicans,Sacramento Kings,True,15,15,0,0
+1049,Indiana Pacers,Houston Rockets,False,24,19,3,0
+1050,Toronto Raptors,Philadelphia 76ers,False,31,26,0,7
+1051,Miami Heat,Oklahoma City Thunder,True,22,16,1,0
+1052,Los Angeles Clippers,Denver Nuggets,False,26,21,1,2
+1053,Washington Wizards,Boston Celtics,False,26,8,3,0
+1054,Sacramento Kings,Los Angeles Lakers,False,26,14,1,0
+1055,Dallas Mavericks,Phoenix Suns,True,16,23,5,2
+1056,Milwaukee Bucks,Memphis Grizzlies,True,19,26,0,1
+1057,San Antonio Spurs,Utah Jazz,True,22,13,0,1
+1058,New Orleans Pelicans,Orlando Magic,True,17,15,0,0
+1059,Portland Trail Blazers,Brooklyn Nets,False,20,13,2,2
+1060,Denver Nuggets,Toronto Raptors,True,25,20,1,0
+1061,Miami Heat,Indiana Pacers,True,24,16,3,0
+1062,Oklahoma City Thunder,Los Angeles Clippers,True,26,21,0,0
+1063,Philadelphia 76ers,Houston Rockets,False,24,11,0,0
+1064,Memphis Grizzlies,Portland Trail Blazers,True,21,14,1,0
+1065,Utah Jazz,Denver Nuggets,True,26,21,0,0
+1066,Brooklyn Nets,Toronto Raptors,True,26,15,2,2
+1067,Philadelphia 76ers,Boston Celtics,True,26,12,0,1
+1068,Dallas Mavericks,Los Angeles Clippers,True,27,23,1,0
+1069,Orlando Magic,Milwaukee Bucks,False,30,15,0,0
+1070,Miami Heat,Indiana Pacers,False,25,16,4,0
+1071,Oklahoma City Thunder,Houston Rockets,True,24,21,0,0
+1072,Portland Trail Blazers,Los Angeles Lakers,False,26,14,0,3
+1073,Brooklyn Nets,Toronto Raptors,True,27,15,3,0
+1074,Utah Jazz,Denver Nuggets,False,27,21,1,0
+1075,Philadelphia 76ers,Boston Celtics,True,27,12,1,0
+1076,Dallas Mavericks,Los Angeles Clippers,False,28,23,2,0
+1077,Miami Heat,Indiana Pacers,False,25,17,0,1
+1078,Oklahoma City Thunder,Houston Rockets,True,25,21,1,0
+1079,Orlando Magic,Milwaukee Bucks,True,30,16,0,1
+1080,Portland Trail Blazers,Los Angeles Lakers,True,26,15,0,4
+1081,Toronto Raptors,Brooklyn Nets,False,20,27,0,8
+1082,Denver Nuggets,Utah Jazz,True,23,20,1,0
+1083,Boston Celtics,Philadelphia 76ers,False,31,22,0,2
+1084,Los Angeles Clippers,Dallas Mavericks,False,20,22,0,3
+1085,Milwaukee Bucks,Orlando Magic,False,18,26,1,0
+1086,Indiana Pacers,Miami Heat,True,30,20,1,1
+1087,Houston Rockets,Oklahoma City Thunder,True,23,20,2,0
+1088,Los Angeles Lakers,Portland Trail Blazers,False,22,29,2,0
+1089,Boston Celtics,Philadelphia 76ers,False,31,23,0,3
+1090,Los Angeles Clippers,Dallas Mavericks,True,20,23,0,4
+1091,Toronto Raptors,Brooklyn Nets,False,20,28,0,9
+1092,Denver Nuggets,Utah Jazz,True,24,20,2,0
+1093,Milwaukee Bucks,Orlando Magic,False,18,27,0,1
+1094,Houston Rockets,Oklahoma City Thunder,True,24,20,3,0
+1095,Indiana Pacers,Miami Heat,True,31,20,2,0
+1096,Los Angeles Lakers,Portland Trail Blazers,False,22,30,0,1
+1097,Utah Jazz,Denver Nuggets,True,27,22,0,1
+1098,Dallas Mavericks,Los Angeles Clippers,True,28,24,0,1
+1099,Orlando Magic,Milwaukee Bucks,True,31,16,1,0
+1100,Oklahoma City Thunder,Houston Rockets,True,26,21,2,0
+1101,Portland Trail Blazers,Los Angeles Lakers,True,27,15,1,0
+1102,Boston Celtics,Toronto Raptors,False,28,24,4,4
+1103,Los Angeles Clippers,Dallas Mavericks,False,21,23,1,0
+1104,Denver Nuggets,Utah Jazz,False,25,20,3,0
+1105,Miami Heat,Milwaukee Bucks,False,32,18,2,2
+1106,Houston Rockets,Oklahoma City Thunder,True,25,20,4,0
+1107,Boston Celtics,Toronto Raptors,False,28,25,0,5
+1108,Utah Jazz,Denver Nuggets,True,28,22,1,0
+1109,Miami Heat,Milwaukee Bucks,False,32,19,0,3
+1110,Oklahoma City Thunder,Houston Rockets,True,27,21,3,0
+1111,Toronto Raptors,Boston Celtics,False,28,29,2,10
+1112,Denver Nuggets,Los Angeles Clippers,True,29,21,1,1
+1113,Milwaukee Bucks,Miami Heat,True,32,28,3,2
+1114,Houston Rockets,Los Angeles Lakers,False,28,20,2,0
+1115,Toronto Raptors,Boston Celtics,False,28,30,0,11
+1116,Denver Nuggets,Los Angeles Clippers,False,30,21,2,0
+1117,Milwaukee Bucks,Miami Heat,False,33,28,4,0
+1118,Houston Rockets,Los Angeles Lakers,True,28,21,0,1
+1119,Boston Celtics,Toronto Raptors,False,28,26,0,6
+1120,Los Angeles Clippers,Denver Nuggets,False,29,24,2,1
+1121,Miami Heat,Milwaukee Bucks,False,32,20,0,4
+1122,Los Angeles Lakers,Houston Rockets,False,28,31,4,2
+1123,Toronto Raptors,Boston Celtics,False,28,31,0,12
+1124,Los Angeles Clippers,Denver Nuggets,False,29,25,0,2
+1125,Los Angeles Lakers,Houston Rockets,False,28,32,0,3
+1126,Denver Nuggets,Los Angeles Clippers,False,30,22,0,1
+1127,Boston Celtics,Toronto Raptors,False,28,27,0,7
+1128,Houston Rockets,Los Angeles Lakers,True,29,21,1,0
+1129,Los Angeles Clippers,Denver Nuggets,True,29,26,0,3
+1130,Miami Heat,Boston Celtics,False,28,21,0,5
+1131,Denver Nuggets,Los Angeles Clippers,False,30,23,0,2
+1132,Miami Heat,Boston Celtics,False,28,22,0,6
+1133,Denver Nuggets,Los Angeles Lakers,True,30,24,2,3
+1134,Boston Celtics,Miami Heat,False,33,28,0,8
+1135,Denver Nuggets,Los Angeles Lakers,True,31,24,3,0
+1136,Los Angeles Lakers,Denver Nuggets,True,30,33,1,4
+1137,Boston Celtics,Miami Heat,True,33,29,0,9
+1138,Los Angeles Lakers,Denver Nuggets,False,31,33,2,0
+1139,Miami Heat,Boston Celtics,True,28,23,0,7
+1140,Denver Nuggets,Los Angeles Lakers,True,32,24,4,0
+1141,Boston Celtics,Miami Heat,True,34,29,1,0
+1142,Miami Heat,Los Angeles Lakers,True,33,23,5,0
